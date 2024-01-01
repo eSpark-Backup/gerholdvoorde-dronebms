@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Power Section.SchDoc
+DocumentPath=Power_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QSPJRBXX
 
 [Document3]
-DocumentPath=Controller Section.SchDoc
+DocumentPath=Controller_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ADSBTHTY
 
 [Document4]
-DocumentPath=Flash-Memory-Sheet.SchDoc
+DocumentPath=FlashMemory_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=APOQLZKY
 
 [Document5]
-DocumentPath=Connector Section.SchDoc
+DocumentPath=Connector_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CHYHRKAY
 
 [Document6]
-DocumentPath=Flash-Memory-Sheet.Harness
+DocumentPath=FlashMemory_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=Controller Section.Harness
+DocumentPath=Controller_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -166,6 +166,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document8]
+DocumentPath=WiFiModule_Section.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FFTNFDYH
 
 [Configuration1]
 Name=Sources
