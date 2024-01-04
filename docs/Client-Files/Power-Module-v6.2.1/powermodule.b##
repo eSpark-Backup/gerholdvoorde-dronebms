@@ -8,7 +8,7 @@
 </settings>
 <grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
 <layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
 <layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
@@ -23,7 +23,7 @@
 <layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
 <layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
 <layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
@@ -87,7 +87,7 @@
 <wire x1="70.231" y1="24.8412" x2="70.1294" y2="24.9428" width="0.1524" layer="26"/>
 <wire x1="74.2442" y1="27.9654" x2="70.4342" y2="27.9654" width="0.1524" layer="26"/>
 <text x="70.612" y="29.464" size="1.27" layer="26" rot="MR180">RUN</text>
-<wire x1="-1.27" y1="13.36" x2="98.73" y2="13.36" width="0.1524" layer="51" style="shortdash"/>
+<wire x1="0" y1="22.25" x2="100" y2="22.25" width="0.1524" layer="51" style="shortdash"/>
 <polygon width="0.1524" layer="51" pour="hatch">
 <vertex x="47.244" y="40.132"/>
 <vertex x="47.244" y="33.111"/>
@@ -8795,8 +8795,6 @@ Source: Data sheet</description>
 </signal>
 <signal name="SDA_VOXL">
 <contactref element="U2" pad="17"/>
-<contactref element="J2" pad="15"/>
-<wire x1="40.52004375" y1="32.658" x2="40.52004375" y2="34.29704375" width="0.1778" layer="1"/>
 <wire x1="40.52004375" y1="34.29704375" x2="40.767" y2="34.544" width="0.1778" layer="1"/>
 <wire x1="40.767" y1="34.544" x2="44.45" y2="34.544" width="0.1778" layer="1"/>
 <wire x1="44.45" y1="34.544" x2="44.831" y2="34.163" width="0.1778" layer="1"/>
