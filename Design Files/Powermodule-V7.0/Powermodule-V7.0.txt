@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\eSpark\Desktop\gerholdvoorde-dronebms\Design Files\Powermodule-V7.0\Powermodule-V7.0.PcbDoc
-Date         : 1/12/2024
-Time         : 7:00:58 PM
+Date         : 1/16/2024
+Time         : 4:54:43 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 64.46%
+    Routing completion, 95.18%
     Connections, 332
-    Connections routed, 214
-    Connections remaining, 118
+    Connections routed, 316
+    Connections remaining, 16
 count : 4
