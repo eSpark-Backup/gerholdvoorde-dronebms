@@ -1,0 +1,556 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\eSpark\Desktop\gerholdvoorde-dronebms\docs\Client-Files\Power-Module-v6.2.1\Imported (3) powermodule.PrjPcb\powermodule.PcbDoc
+Date     : 1/18/2024
+Time     : 12:29:45 PM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net N$19 Between Pad U4-P$10(731.5mil,1005.12mil) on Top And Pad C26-1(795mil,1063mil) on Top 
+   Violation between Un-Routed Net Constraint: Net N$2 Between Pad U4-P$9(755.12mil,956.89mil) on Top And Pad C26-2(795mil,1007mil) on Top 
+   Violation between Un-Routed Net Constraint: Net +5V Between Pad C28-1(1075mil,770.12mil) on Top And Pad L2-P$1(1087.2mil,950mil) on Top 
+   Violation between Un-Routed Net Constraint: Net +5V Between Pad C30-1(915mil,770.12mil) on Top And Pad C29-1(995mil,770.12mil) on Top 
+   Violation between Un-Routed Net Constraint: Net +5V Between Pad C31-1(835mil,770.12mil) on Top And Pad C30-1(915mil,770.12mil) on Top 
+   Violation between Un-Routed Net Constraint: Net +5V Between Pad U4-P$7(731.5mil,894.88mil) on Top And Pad C31-1(835mil,770.12mil) on Top 
+   Violation between Un-Routed Net Constraint: Net N$2 Between Pad U4-P$9(755.12mil,956.89mil) on Top And Pad L2-P$2(862.8mil,950mil) on Top 
+   Violation between Un-Routed Net Constraint: Net N$2 Between Pad U4-P$16(700mil,932.87mil) on Top And Pad U4-P$15(700mil,956.5mil) on Top 
+   Violation between Un-Routed Net Constraint: Net N$2 Between Pad U4-P$15(700mil,956.5mil) on Top And Pad U4-P$9(755.12mil,956.89mil) on Top 
+   Violation between Un-Routed Net Constraint: Net N$2 Between Pad U4-P$8(755.12mil,929.33mil) on Top And Pad U4-P$9(755.12mil,956.89mil) on Top 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (3530mil,680mil) from Top to Bottom And Track (3570mil,757mil)(3601mil,726mil) on Top 
+Rule Violations :11
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=99999mil) (Max=10mil) (Preferred=5mil) (InNetClass('dif pairs'))
+   Violation between Width Constraint: Track (3855mil,1068mil)(3898.72mil,1068mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3855mil,907mil)(3878.72mil,907mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3878.72mil,907mil)(3890.36mil,895.36mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3898.72mil,1068mil)(3905.86mil,1060.86mil) on Top Actual Width = 13mil, Target Width = 10mil
+Rule Violations :4
+
+Processing Rule : Width Constraint (Min=5mil) (Max=10mil) (Preferred=5mil) (All)
+   Violation between Width Constraint: Track (1015mil,190mil)(1015mil,250mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1015mil,250mil)(1015mil,290mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1275mil,1075mil)(1385mil,965mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1310.87mil,25.87mil)(1348.69mil,63.69mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1348.69mil,63.69mil)(1568.19mil,63.69mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1355mil,81mil)(1355mil,139mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1385mil,740mil)(1385mil,965mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1385mil,740mil)(1500mil,625mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1500mil,625mil)(1855mil,625mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (150mil,750mil)(200mil,750mil) on Bottom Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1568.19mil,63.69mil)(1572.09mil,59.78mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1572.09mil,59.78mil)(2499.78mil,59.78mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1850mil,750mil)(1850mil,850mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1850mil,750mil)(1955mil,645mil) on Top Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1850mil,850mil)(1915mil,915mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1855mil,625mil)(1960mil,520mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1915mil,915mil)(2305mil,915mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1955mil,645mil)(3020mil,645mil) on Top Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1960mil,520mil)(2110mil,520mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (200mil,750mil)(214mil,750mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2027mil,255.6mil)(2027mil,317.6mil) on Top Actual Width = 11.81mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2027mil,255.6mil)(2052mil,240mil) on Top Actual Width = 11.81mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2052mil,115mil)(2052mil,175mil) on Top Actual Width = 11.81mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2080mil,147mil)(2108mil,175mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2080mil,67.19mil)(2080mil,147mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2080mil,67.19mil)(2112.19mil,35mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2103mil,445mil)(2113.7mil,446.3mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2110mil,520mil)(2125mil,505mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2112.19mil,35mil)(2380mil,35mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2113.7mil,446.3mil)(2125mil,457.6mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2125mil,457.6mil)(2125mil,505mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (214mil,750mil)(217mil,747mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2305mil,915mil)(2330mil,940mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2327.14mil,1002.54mil)(2327.88mil,1005.51mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2327.88mil,1005.51mil)(2330mil,1003.4mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2327.88mil,1005.51mil)(2331.5mil,1020mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2330mil,940mil)(2330mil,1003.4mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2380mil,35mil)(2382.5mil,37.5mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2382.5mil,37.5mil)(2410mil,65mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2382.5mil,37.5mil)(2482.75mil,37.5mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2400.12mil,125mil)(2475mil,125mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2410mil,65mil)(2410mil,70mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2410mil,70mil)(2460mil,70mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2460mil,70mil)(2485mil,95mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2475mil,125mil)(2505mil,155mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2482.75mil,37.5mil)(2492.5mil,47.25mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2485mil,95mil)(2492.5mil,87.5mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2492.5mil,47.25mil)(2492.5mil,87.5mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2499.78mil,59.78mil)(2525mil,85mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2505mil,155mil)(2515mil,165mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2505mil,155mil)(2630.28mil,155mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (250mil,550mil)(251.26mil,551.26mil) on Bottom Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (251.26mil,551.26mil)(301.26mil,551.26mil) on Bottom Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2515mil,165mil)(2515mil,314mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2525mil,85mil)(2525mil,300mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (260mil,340mil)(380mil,220mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (262.95mil,589.57mil)(301.26mil,551.26mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2630.28mil,155mil)(2665mil,189.72mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2665mil,189.72mil)(2665mil,315mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2665mil,315mil)(2750mil,400mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (2750mil,400mil)(3040mil,400mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (28.44mil,398.44mil)(28.44mil,713.44mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (28.44mil,398.44mil)(86.87mil,340mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (28.44mil,713.44mil)(65mil,750mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (301.26mil,551.26mil)(485mil,367.52mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3020mil,645mil)(3045mil,620mil) on Top Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3040mil,400mil)(3045mil,405mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3040mil,400mil)(3147.33mil,400mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3045mil,405mil)(3045mil,620mil) on Bottom Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3068.5mil,1035.5mil)(3069mil,1035mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3069mil,1035mil)(3110mil,1035mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3147.33mil,400mil)(3203.83mil,456.5mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3203.83mil,456.5mil)(3261.5mil,456.5mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3260mil,947mil)(3280mil,947mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3261.5mil,456.5mil)(3285mil,480mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3280mil,947mil)(3292mil,959mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3285mil,480mil)(3350mil,480mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3292mil,1023mil)(3306mil,1037mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3292mil,959mil)(3292mil,1023mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3306mil,1037mil)(3315mil,1046mil) on Bottom Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3306mil,1037mil)(3315mil,1046mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3315mil,1046mil)(3322mil,1046mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3315mil,1046mil)(3395mil,1046mil) on Bottom Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3350mil,480mil)(3400mil,480mil) on Top Actual Width = 25mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3395mil,1046mil)(3396mil,1045mil) on Bottom Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3400mil,480mil)(3465mil,480mil) on Top Actual Width = 25mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3465mil,480mil)(3620mil,480mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (354mil,1248mil)(454mil,1248mil) on Bottom Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3570mil,757mil)(3601mil,726mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3584mil,1203.62mil)(3586mil,1205.63mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3586mil,1205.63mil)(3586mil,1283mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3586mil,1283mil)(3605mil,1283mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3601mil,726mil)(3666.34mil,726mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3605mil,1283mil)(3645mil,1323mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3620mil,480mil)(3735mil,595mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3625mil,1051mil)(3625mil,1060mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3625mil,1051mil)(3627.5mil,1048.5mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3625mil,1060mil)(3630mil,1060mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3627.5mil,1048.5mil)(3661.83mil,1048.5mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3630mil,1060mil)(3635mil,1055mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3630mil,813mil)(3690mil,813mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3645mil,1310mil)(3645mil,1323mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3645mil,1310mil)(3660mil,1295mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3660mil,1295mil)(3760mil,1295mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3660mil,980mil)(3675mil,965mil) on Bottom Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3661.83mil,1048.5mil)(3685.33mil,1025mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3666.34mil,726mil)(3666.34mil,733.34mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3666.34mil,733.34mil)(3690mil,757mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3675mil,1055mil)(3685mil,1065mil) on Bottom Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3675mil,965mil)(3675mil,1055mil) on Bottom Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3685.33mil,1025mil)(3727mil,1025mil) on Top Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3685mil,1065mil)(3685mil,1085mil) on Bottom Actual Width = 13mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3690mil,813mil)(3692mil,815mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3690mil,813mil)(3727mil,850mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3692mil,815mil)(3735mil,815mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3710mil,1165mil)(3730mil,1185mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3727mil,823mil)(3727mil,885mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3727mil,823mil)(3735mil,815mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3727mil,850mil)(3727mil,885mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3735mil,595mil)(3735mil,815mil) on Top Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3760mil,1295mil)(3775mil,1280mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3760mil,1295mil)(3777mil,1312mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3775mil,1262mil)(3775mil,1280mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3775mil,1262mil)(3777mil,1260mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3777mil,1260mil)(3777mil,1320mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3777mil,1312mil)(3777mil,1320mil) on Top Actual Width = 12mil, Target Width = 10mil
+   Violation between Width Constraint: Track (380mil,100mil)(380mil,220mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (380mil,100mil)(390mil,90mil) on Top Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (380mil,60mil)(380mil,100mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (380mil,60mil)(414.13mil,25.87mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (3833mil,1260mil)(3833mil,1320mil) on Top Actual Width = 15mil, Target Width = 10mil
+   Violation between Width Constraint: Track (390mil,90mil)(557mil,90mil) on Top Actual Width = 20mil, Target Width = 10mil
+   Violation between Width Constraint: Track (406mil,1197mil)(406mil,1247mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (406mil,1247mil)(454mil,1295mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (407mil,1063mil)(407mil,1177mil) on Top Actual Width = 83mil, Target Width = 10mil
+   Violation between Width Constraint: Track (407mil,1063mil)(483.39mil,986.61mil) on Top Actual Width = 83mil, Target Width = 10mil
+   Violation between Width Constraint: Track (414.13mil,25.87mil)(1310.87mil,25.87mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (454mil,1295mil)(855mil,1295mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (485mil,315mil)(485mil,367.52mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (485mil,315mil)(521.09mil,278.91mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (521.09mil,278.91mil)(602.1mil,278.91mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (602.1mil,278.91mil)(679.96mil,201.05mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (65mil,750mil)(200mil,750mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (679.96mil,200.04mil)(679.96mil,201.05mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (679.96mil,200.04mil)(752.98mil,127.02mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (752.98mil,127.02mil)(952.02mil,127.02mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (855mil,1295mil)(900mil,1250mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (86.87mil,340mil)(260mil,340mil) on Bottom Actual Width = 30mil, Target Width = 10mil
+   Violation between Width Constraint: Track (900mil,1140mil)(900mil,1250mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (900mil,1140mil)(965mil,1075mil) on Top Actual Width = 45mil, Target Width = 10mil
+   Violation between Width Constraint: Track (952.02mil,127.02mil)(1015mil,190mil) on Top Actual Width = 50mil, Target Width = 10mil
+   Violation between Width Constraint: Track (965mil,1075mil)(1275mil,1075mil) on Top Actual Width = 45mil, Target Width = 10mil
+Rule Violations :152
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=100000mil) (All)
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Pad U2-58(3525mil,1115mil) on Multi-Layer Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Pad U2-59(3480mil,1115mil) on Multi-Layer Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Pad U2-60(3435mil,1115mil) on Multi-Layer Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Pad U2-61(3435mil,1070mil) on Multi-Layer Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Pad U2-62(3435mil,1025mil) on Multi-Layer Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Pad U2-63(3480mil,1025mil) on Multi-Layer Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Pad U2-64(3525mil,1025mil) on Multi-Layer Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Pad U2-65(3525mil,1070mil) on Multi-Layer Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Pad U2-66(3480mil,1070mil) on Multi-Layer Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (100.25mil,982.49mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (100mil,1300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (100mil,1350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (100mil,1400mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (100mil,944.68mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1015mil,1680mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1062mil,1560mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1081mil,1259mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1081mil,1578mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1100mil,1578mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1119mil,1559mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1119mil,1578mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1147mil,362mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1162mil,256mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1166mil,362mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1185mil,362mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (120mil,925mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (120mil,995mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1257mil,256mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1292mil,1368mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1347mil,1650mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1365mil,34.78mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1370mil,1670mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1419mil,1230mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1438mil,1230mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (149.17mil,1453.91mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (150mil,1300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (150mil,1350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (150mil,1400mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1550mil,150mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1550mil,171mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1550mil,19.78mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (157.19mil,875mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (157.19mil,995mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1571mil,171mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1590mil,1205mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1608.41mil,1481.75mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1610mil,361mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1635mil,1340mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1640mil,1215mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1641.22mil,1481.75mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1655mil,1591mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1670.58mil,1119mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1674mil,1339mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1730mil,1340mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1735mil,360mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1741mil,493mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1760mil,1645mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1761mil,493mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1764mil,1584mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1788mil,1230mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1800mil,1650mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1800mil,494mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1807mil,1230mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (180mil,885mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (180mil,995mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1821mil,1566mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1821mil,1585mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1835mil,1256mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1842mil,494mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1850mil,1100mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1850mil,750mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1860mil,1000mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1900mil,1050mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1905mil,495mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1950mil,100mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1950mil,125mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1975mil,100mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1975mil,125mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1979mil,442mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (1979mil,465mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (198mil,728mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (198mil,747mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (198mil,766mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2000mil,100mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2000mil,125mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2155mil,225mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2155mil,250mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2155mil,540mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2165mil,345mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2165mil,365mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (217mil,728mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (217mil,747mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (217mil,766mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2185mil,345mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2185mil,365mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2205mil,1040mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2210mil,975mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2225mil,270mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2231.2mil,1141.2mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2250mil,270mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2254.4mil,1164.4mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2285mil,270mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2300mil,1650mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2325.34mil,1240.34mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2350mil,1150mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2370.4mil,1025.35mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2373.55mil,1002.54mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2380mil,395mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2380mil,415mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2400mil,1150mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2400mil,1200mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2400mil,395mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2400mil,415mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2420mil,395mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2450.32mil,1040mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2450mil,1150mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2480mil,910mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2487.07mil,1222.93mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2500mil,300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2500mil,325mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2500mil,350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2500mil,890mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2500mil,930mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2520mil,910mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2525mil,1005mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2525mil,300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2525mil,325mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2525mil,350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2540mil,1200mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2550mil,300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2550mil,325mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2550mil,350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2595mil,19.78mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2600mil,1600mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2650mil,1500mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2650mil,1600mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2730.91mil,1260mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2730mil,280mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2800mil,1000mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2800mil,950mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2850mil,1000mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2850mil,950mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2900mil,1650mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (2950mil,1200mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3000mil,1200mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3040mil,400mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3045mil,620mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (305mil,967mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (305mil,986mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3100mil,850mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3110mil,1130mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3150mil,800mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3150mil,850mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3166.37mil,940mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3175mil,616mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3186mil,1688mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3187mil,1621mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3200mil,1350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3200mil,800mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3200mil,850mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3210.26mil,1589.74mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (323mil,691mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (323mil,748mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (323mil,767mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (323mil,805mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3246.09mil,1266.09mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (324mil,1005mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (324mil,967mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3250mil,1335mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3250mil,1750mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3261.99mil,917.51mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3265mil,1245mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3276.65mil,899.91mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3290mil,881mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3306mil,1037mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3320mil,428mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3335mil,1350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3355mil,1300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3360mil,1250mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3372.24mil,889.5mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3385mil,870mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3396mil,1045mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3419mil,1353mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (342mil,691mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (342mil,710mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (342mil,729mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (342mil,748mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3439mil,1353mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (343mil,1005mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (343mil,1024mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (343mil,967mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3450mil,250mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3450mil,300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3450mil,350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3450mil,601.91mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (345mil,55.87mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3493.63mil,600mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3496.79mil,1603.21mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3500mil,250mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3500mil,300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3500mil,350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (350mil,1700mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3520.03mil,750mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3520mil,1530mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3526.41mil,1485mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3530mil,660mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3530mil,680mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3536.78mil,791.85mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3546.41mil,1348.2mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3550mil,550mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3550mil,590mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3552.53mil,864.79mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3566.09mil,1231.32mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3575mil,855mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3600mil,1420mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3600mil,550mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3614mil,1374mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3615mil,945mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3635mil,1360mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3660mil,980mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3675mil,965mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3680mil,850mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3685mil,1065mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3685mil,1085mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3700mil,450mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3710mil,1165mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3750mil,450mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3750mil,500mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3777mil,846mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3797mil,847mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3800mil,450mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3800mil,500mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3800mil,550mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3800mil,600mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3800mil,650mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3800mil,700mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3800mil,750mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (380mil,100mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3815mil,1020mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3815mil,1045mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3815mil,1075mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3815mil,905mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3815mil,930mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3815mil,955mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3816mil,847mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (381mil,967mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3850mil,300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3850mil,350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3850mil,500mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3850mil,550mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3850mil,600mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3850mil,650mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3850mil,700mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3850mil,750mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3868mil,1241mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3868mil,1260mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3868mil,1279mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3868mil,1298mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3868mil,1317mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3868mil,1337mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (386mil,1197mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (387mil,1177mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3890mil,930mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3890mil,950mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3890mil,970mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3890mil,990mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3900mil,250mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3900mil,300mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3900mil,350mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (3900mil,400mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (39mil,802mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (39mil,821mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (39mil,860mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (406mil,1197mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (407mil,1177mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (40mil,1036mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (40mil,918mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (40mil,937mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (426mil,1177mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (426mil,1197mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (446mil,1177mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (446mil,1197mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (500mil,1150mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (500mil,1200mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (50mil,1550mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (50mil,1600mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (510mil,775mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (550mil,1060mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (550mil,1150mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (550mil,1200mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (580mil,755mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (585mil,240mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (585mil,320mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (587.4mil,1122.4mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (58mil,802mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (58mil,821mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (58mil,840mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (58mil,860mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (59mil,880mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (59mil,899mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (59mil,918mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (59mil,937mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (600mil,1200mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (635mil,1085mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (635mil,1120mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (650mil,625mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (650mil,650mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (650mil,865mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (675mil,650mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (680.5mil,862.26mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (695.5mil,834.5mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (704.74mil,1054.43mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (725mil,650mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (725mil,675mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (750mil,625mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (775mil,450mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (775mil,475mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (775mil,500mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (800mil,1200mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (800mil,450mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (825mil,1150mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (825mil,450mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (825mil,475mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (850mil,1175mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (875mil,450mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (900mil,475mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (900mil,500mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (925mil,475mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil < 11.811mil) Via (925mil,500mil) from Top to Bottom Actual Hole Size = 11.81mil
+Rule Violations :329
+
+Processing Rule : Hole Size Constraint (Min=0mil) (Max=0mil) (InNetClass('dif pairs'))
+   Violation between Hole Size Constraint: (11.81mil > 0mil) Via (2730mil,915mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil > 0mil) Via (2753.2mil,891.8mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil > 0mil) Via (3890.36mil,895.36mil) from Top to Bottom Actual Hole Size = 11.81mil
+   Violation between Hole Size Constraint: (11.81mil > 0mil) Via (3905.86mil,1060.86mil) from Top to Bottom Actual Hole Size = 11.81mil
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:00
