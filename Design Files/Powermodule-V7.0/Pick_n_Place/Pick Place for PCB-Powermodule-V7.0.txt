@@ -4,9 +4,9 @@ C:\Users\LiberDB\Documents\GitHub\gerholdvoorde-dronebms\Design Files\Powermodul
 ========================================================================================================================
 File Design Information:
 
-Date:       23/01/24
-Time:       19:09
-Revision:   Not in VersionControl
+Date:       01/02/24
+Time:       19:32
+Revision:   729e14ca799903ed0c7a14e3c955ca012cd553ec
 Variant:    No variations
 Units used: mm
 
@@ -49,8 +49,8 @@ C36        TopLayer    39,9491mm    -12,9695mm   45       39,9491mm  -12,9695mm 
 C37        TopLayer    42,8701mm    -5,9845mm    180      42,8701mm  -5,9845mm  43,6321mm  -5,9845mm  
 C38        TopLayer    44,7751mm    -9,2865mm    180      44,7751mm  -9,2865mm  45,5371mm  -9,2865mm  
 D1         TopLayer    63,3171mm    -17,0335mm   90       63,3171mm  -17,0335mm 63,3171mm  -18,1835mm 
-D2         TopLayer    44,9021mm    -34,4325mm   270      44,9021mm  -34,4325mm 44,9021mm  -32,8575mm 
-D3         TopLayer    47,1881mm    -34,4325mm   270      47,1881mm  -34,4325mm 47,1881mm  -32,8575mm 
+D2         TopLayer    44,2468mm    -33,7302mm   90       44,2468mm  -33,7302mm 44,2468mm  -34,8802mm 
+D3         TopLayer    45,8978mm    -33,7301mm   90       45,8978mm  -33,7301mm 45,8978mm  -34,8801mm 
 D4         TopLayer    57,3481mm    -24,4757mm   90       57,3481mm  -24,4757mm 57,3481mm  -25,6257mm 
 D5         TopLayer    57,3481mm    -21,2245mm   270      57,3481mm  -21,2245mm 57,3481mm  -20,0745mm 
 D6         TopLayer    64,7141mm    -21,4785mm   0        64,7141mm  -21,4785mm 63,5641mm  -21,4785mm 
@@ -131,6 +131,7 @@ R25        TopLayer    44,7751mm    -7,7625mm    0        44,7751mm  -7,7625mm  
 R26        TopLayer    46,1721mm    -5,9845mm    180      46,1721mm  -5,9845mm  46,9341mm  -5,9845mm  
 R27        TopLayer    34,2341mm    -6,4925mm    45       34,2341mm  -6,4925mm  33,6953mm  -7,0313mm  
 R28        TopLayer    35,2501mm    -7,5085mm    45       35,2501mm  -7,5085mm  34,7113mm  -8,0473mm  
+R29        TopLayer    45,1104mm    -36,6776mm   0        45,1104mm  -36,6776mm 44,3484mm  -36,6776mm 
 SW1        TopLayer    64,7649mm    5,3950mm     180      64,7649mm  5,3950mm   66,5649mm  4,6700mm   
 SW2        BottomLayer 11,6535mm    5,3950mm     0        11,6535mm  5,3950mm   13,4535mm  4,6700mm   
 U1         TopLayer    32,2275mm    -28,9715mm   180      32,2275mm  -28,9715mm 33,5275mm  -29,9215mm 
