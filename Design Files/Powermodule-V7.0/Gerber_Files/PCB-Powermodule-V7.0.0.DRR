@@ -1,9 +1,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB-Powermodule-V7.0.PcbDoc   2/1/2024  7:30:26 PM
+NCDrill File Report For: PCB-Powermodule-V7.0.0.PcbDoc   2/2/2024  10:10:52 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : PCB-Powermodule-V7.0.TXT
+ASCII RoundHoles File : PCB-Powermodule-V7.0.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -14,4 +14,4 @@ T4      40mil (1.02mm)                                            Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              235
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

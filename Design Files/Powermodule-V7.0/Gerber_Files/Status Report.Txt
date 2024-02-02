@@ -1,12 +1,12 @@
 Output: NC Drill Files
 Type  : NC Drill
-From  : Project [Powermodule-V7.0.PrjPcb]
-   Generated File[PCB-Powermodule-V7.0.TXT]
-   Generated File[PCB-Powermodule-V7.0.LDP]
-   Generated File[PCB-Powermodule-V7.0.DRR]
+From  : Project [Powermodule-V7.0.0.PrjPcb]
+   Generated File[PCB-Powermodule-V7.0.0.TXT]
+   Generated File[PCB-Powermodule-V7.0.0.LDP]
+   Generated File[PCB-Powermodule-V7.0.0.DRR]
 
 
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 7:30:27 PM On 2/1/2024
+Finished Output Generation At 10:10:52 PM On 2/2/2024
