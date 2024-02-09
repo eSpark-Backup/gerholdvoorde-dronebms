@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Balancer-v7.0.1.PrjPcb]
+   Generated File[Balancer-v7.0.1.TXT]
+   Generated File[Balancer-v7.0.1.LDP]
+   Generated File[Balancer-v7.0.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:50:23 PM On 2/2/2024
