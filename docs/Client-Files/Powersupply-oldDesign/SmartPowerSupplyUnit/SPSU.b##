@@ -1981,7 +1981,7 @@
 <wire x1="14.0127" y1="-47.9154" x2="14.0303" y2="-47.83" width="0.1524" layer="20"/>
 <wire x1="14.0303" y1="-47.83" x2="14.0552" y2="-47.7464" width="0.1524" layer="20"/>
 <wire x1="14.1265" y1="-47.5873" x2="14.0552" y2="-47.7464" width="0.1524" layer="20" curve="10"/>
-<dimension x1="-1.27" y1="-3.81" x2="-1.27" y2="-3.81" x3="-1.27" y3="-3.81" textsize="1.778" layer="1"/>
+<dimension x1="13.97" y1="5.08" x2="-3.0734" y2="5.08" x3="5.4483" y3="-1.27" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="transistor-fet" urn="urn:adsk.eagle:library:396">
