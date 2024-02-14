@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="1" altunitdist="mil" altunit="mil"/>
+<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="1" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -23,7 +23,7 @@
 <layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
 <layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
 <layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
@@ -4887,10 +4887,8 @@ Source: Data sheet</description>
 <wire x1="11.43" y1="-24.13" x2="12.7" y2="-24.13" width="0.3048" layer="1"/>
 <wire x1="12.7" y1="-24.13" x2="14.2621" y2="-22.5679" width="0.3048" layer="1"/>
 <wire x1="13.2842" y1="-6.731" x2="13.67281875" y2="-7.11961875" width="0.508" layer="1"/>
-<wire x1="13.67281875" y1="-7.11961875" x2="13.8230125" y2="-7.11961875" width="0.508" layer="1"/>
-<wire x1="13.8230125" y1="-7.11961875" x2="14.0462" y2="-7.34280625" width="0.508" layer="1"/>
-<wire x1="14.0462" y1="-7.34280625" x2="14.0462" y2="-7.3914" width="0.508" layer="1"/>
-<wire x1="14.0462" y1="-7.3914" x2="14.7193" y2="-8.0645" width="0.508" layer="1"/>
+<wire x1="13.67281875" y1="-7.11961875" x2="13.77441875" y2="-7.11961875" width="0.508" layer="1"/>
+<wire x1="13.77441875" y1="-7.11961875" x2="14.7193" y2="-8.0645" width="0.508" layer="1"/>
 <polygon width="0.254" layer="1" thermals="no" rank="6">
 <vertex x="-3.81" y="-2.6162"/>
 <vertex x="-3.81" y="-53.7972"/>

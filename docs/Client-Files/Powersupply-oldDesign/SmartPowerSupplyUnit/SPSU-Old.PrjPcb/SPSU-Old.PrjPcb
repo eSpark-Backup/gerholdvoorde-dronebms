@@ -63,14 +63,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFQXOLGF
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SPSU-Old\Design Rule Check - SPSU-Old.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=SPSU.LOG
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
