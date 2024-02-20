@@ -2,26 +2,135 @@
 FileName = PCB-Powermodule-V7.0.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board_outline
-      File : PCB-Powermodule-V7.0.0.GM2
+Generating : Bottom Pad Master
+      File : PCB-Powermodule-V7.0.0.GPB
 
-    Adding Layer      : Board_outline
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D97
+    D40
+    D45
+    D105
+    D107
+    D108
+    D109
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB-Powermodule-V7.0.0.GBO
+Generating : Top Pad Master
+      File : PCB-Powermodule-V7.0.0.GPT
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D93
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB-Powermodule-V7.0.0.GTO
+
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
     D10
     D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB-Powermodule-V7.0.0.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
 *************************************************************
 
 *************************************************************
@@ -36,18 +145,40 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D34
-    D48
-    D111
-    D112
-    D113
+    D40
+    D45
+    D107
+    D108
+    D109
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : PCB-Powermodule-V7.0.0.GBS
+Generating : Bottom Overlay
+      File : PCB-Powermodule-V7.0.0.GBO
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Board_outline
+      File : PCB-Powermodule-V7.0.0.GM2
+
+    Adding Layer      : Board_outline
+
+
+Used DCodes :
+    D10
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB-Powermodule-V7.0.0.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -55,14 +186,85 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D74
-    D87
+    D10
+    D11
+    D12
+    D14
+    D40
+    D45
+    D92
+    D94
+    D95
+    D98
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB-Powermodule-V7.0.0.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D92
     D93
     D94
     D95
-    D114
-    D115
-    D116
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
 *************************************************************
 
 *************************************************************
@@ -77,6 +279,7 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D53
     D54
     D55
     D56
@@ -115,132 +318,13 @@ Used DCodes :
     D89
     D90
     D91
-    D92
-    D93
-    D94
-    D95
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : PCB-Powermodule-V7.0.0.GTP
+Generating : Bottom Solder
+      File : PCB-Powermodule-V7.0.0.GBS
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB-Powermodule-V7.0.0.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : PCB-Powermodule-V7.0.0.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D98
-    D109
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PCB-Powermodule-V7.0.0.GPB
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -248,105 +332,13 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D34
-    D48
-    D109
-    D111
-    D112
-    D113
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB-Powermodule-V7.0.0.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-    D34
-    D48
-    D96
-    D97
-    D99
-    D100
-    D101
-    D103
-    D109
+    D74
+    D79
+    D90
+    D91
     D110
     D111
     D112
-    D113
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : PCB-Powermodule-V7.0.0.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
 *************************************************************
 
 *************************************************************
@@ -359,10 +351,10 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D96
-    D106
-    D117
-    D118
+    D10
+    D99
+    D113
+    D114
 *************************************************************
 
 *************************************************************
@@ -375,6 +367,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D117
+    D113
 *************************************************************
 
