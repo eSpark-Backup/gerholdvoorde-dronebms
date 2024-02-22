@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB_SPSU-v4.0.0.GBR   2/19/2024  10:16:39 AM
+Gerber File Extension Report For: PCB_SPSU-v4.0.0.GBR   2/22/2024  2:54:06 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -19,5 +19,6 @@ Layer Extension     Layer Description
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
 .GD1                Drill Drawing                           
+.GG1                Drill Guide                             
 .GM                 Profile                                 
 ------------------------------------------------------------------------------------------
