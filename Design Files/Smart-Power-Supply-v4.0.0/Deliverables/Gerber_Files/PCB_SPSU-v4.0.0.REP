@@ -2,219 +2,6 @@
 FileName = PCB_SPSU-v4.0.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : PCB_SPSU-v4.0.0.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D93
-    D94
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : PCB_SPSU-v4.0.0.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D69
-    D70
-    D71
-    D72
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB_SPSU-v4.0.0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Board_Outline
-      File : PCB_SPSU-v4.0.0.GM2
-
-    Adding Layer      : Board_Outline
-
-
-Used DCodes :
-    D98
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PCB_SPSU-v4.0.0.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PCB_SPSU-v4.0.0.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D93
-    D94
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB_SPSU-v4.0.0.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Fabrication
-      File : PCB_SPSU-v4.0.0.GM7
-
-    Adding Layer      : Fabrication
-
-
-Used DCodes :
-    D11
-    D73
-    D99
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB_SPSU-v4.0.0.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D73
-    D74
-    D77
-    D78
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : PCB_SPSU-v4.0.0.GTL
 
@@ -267,7 +54,162 @@ Used DCodes :
     D89
     D90
     D91
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_SPSU-v4.0.0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D73
+    D74
+    D75
+    D76
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
     D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_SPSU-v4.0.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_SPSU-v4.0.0.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D69
+    D70
+    D71
+    D72
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_SPSU-v4.0.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_SPSU-v4.0.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Fabrication
+      File : PCB_SPSU-v4.0.0.GM7
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
+    D10
+    D75
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_SPSU-v4.0.0.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D92
+    D93
 *************************************************************
 
 *************************************************************
@@ -294,8 +236,8 @@ Used DCodes :
     D65
     D66
     D67
+    D95
     D96
-    D97
 *************************************************************
 
 *************************************************************
@@ -330,6 +272,63 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Solder
+      File : PCB_SPSU-v4.0.0.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Board_Outline
+      File : PCB_SPSU-v4.0.0.GM2
+
+    Adding Layer      : Board_Outline
+
+
+Used DCodes :
+    D97
+*************************************************************
+
+*************************************************************
 Generating : Drill Drawing
       File : PCB_SPSU-v4.0.0.GD1
 
@@ -341,8 +340,8 @@ Generating : Drill Drawing
 Used DCodes :
     D10
     D11
-    D73
-    D100
+    D75
+    D99
 *************************************************************
 
 *************************************************************
@@ -355,7 +354,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D10
+    D11
 *************************************************************
 
 *************************************************************
@@ -364,6 +363,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D101
+    D100
 *************************************************************
 
