@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=Deliverables\Gerber_Files\Gerber_Files.Cam
+DocumentPath=Deliverables\Gerber_Files\Gerber_File.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -202,7 +202,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=Deliverables\Gerber_Files\NC_Drill_files.Cam
+DocumentPath=Deliverables\Gerber_Files\NC_Drill_File.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
