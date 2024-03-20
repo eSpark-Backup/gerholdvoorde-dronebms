@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQAXSAKY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Dockboard-v1.0.0\Design Rule Check - Dockboard-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
