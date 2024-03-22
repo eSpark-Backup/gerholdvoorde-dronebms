@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\Users\XPENDER\Documents\GitHub\gerholdvoorde-dronebms\Design Files\Dockboard-v1.0.0\Project Outputs for Dockboard-v1.0.0\Pick Place for Dockboard-v1.0.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/03/24
+Time:       01:31
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer    Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+J1         TopLayer 11,9002mm    6,2756mm     0        9,5001mm  3,2756mm  9,5001mm  3,2756mm  
+J2         TopLayer 17,5080mm    6,0000mm     0        17,5080mm 6,0000mm  17,5080mm 6,0000mm  
+J3         TopLayer 2,0000mm     6,0000mm     0        2,0000mm  6,0000mm  2,0000mm  6,0000mm  
