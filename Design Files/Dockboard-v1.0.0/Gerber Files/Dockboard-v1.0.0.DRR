@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Dockboard-v1.0.0.PcbDoc   3/23/2024  1:33:37 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Dockboard-v1.0.0-RoundHoles.TXT
+ASCII SlotHoles File : Dockboard-v1.0.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Slot              2         PTH        0.66inch (16.79mm)
+T2      39mil (1mm)                                               Slot              1         PTH        0.08inch (2.00mm)
+T3      120mil (3.05mm)                                           Round             2         PTH        0.61inch (15.51mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              5
+
+Total Processing Time (hh:mm:ss) : 00:00:00
