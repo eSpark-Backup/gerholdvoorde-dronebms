@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark\Documents\GitHub\gerholdvoorde-dronebms\Design Files\Powermodule-v7.0.0\Project Outputs for Powermodule-V7.0.0\Pick Place for PCB-Powermodule-V7.0.0.txt
+D:\eSpark-Consultants\gerholdvoorde-dronebms\Design Files\Powermodule-v7.0.2\Project Outputs for Powermodule-v7.0.2\Pick Place for PCB-Powermodule-v7.0.2.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       06/03/24
-Time:       17:12
-Revision:   a53484c16e3ecf05e0ee45c8b4a9ef790e57d1a0
+Date:       02/05/24
+Time:       12:47
+Revision:   dab32fc3077b7bbc0316f239769b50c85dd12517
 Variant:    No variations
 Units used: mm
 

@@ -1,9 +1,9 @@
 *************************************************************
-FileName = PCB-Powermodule-V7.0.0.GBR
+FileName = PCB-Powermodule-v7.0.2.GBR
 AutoAperture = True
 *************************************************************
 Generating : Top Pad Master
-      File : PCB-Powermodule-V7.0.0.GPT
+      File : PCB-Powermodule-v7.0.2.GPT
 
     Adding Layer      : Top Layer
 
@@ -48,7 +48,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Overlay
-      File : PCB-Powermodule-V7.0.0.GTO
+      File : PCB-Powermodule-v7.0.2.GTO
 
     Adding Layer      : Top Overlay
 
@@ -68,7 +68,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Paste
-      File : PCB-Powermodule-V7.0.0.GTP
+      File : PCB-Powermodule-v7.0.2.GTP
 
     Adding Layer      : Top Paste
 
@@ -113,7 +113,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Pad Master
-      File : PCB-Powermodule-V7.0.0.GPB
+      File : PCB-Powermodule-v7.0.2.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -131,7 +131,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Solder
-      File : PCB-Powermodule-V7.0.0.GTS
+      File : PCB-Powermodule-v7.0.2.GTS
 
     Adding Layer      : Top Solder
 
@@ -181,7 +181,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Solder
-      File : PCB-Powermodule-V7.0.0.GBS
+      File : PCB-Powermodule-v7.0.2.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -202,7 +202,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Paste
-      File : PCB-Powermodule-V7.0.0.GBP
+      File : PCB-Powermodule-v7.0.2.GBP
 
     Adding Layer      : Bottom Paste
 
@@ -221,7 +221,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Board_outline
-      File : PCB-Powermodule-V7.0.0.GM2
+      File : PCB-Powermodule-v7.0.2.GM2
 
     Adding Layer      : Board_outline
 
@@ -233,7 +233,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Glue Points
-      File : PCB-Powermodule-V7.0.0.GM11
+      File : PCB-Powermodule-v7.0.2.GM11
 
     Adding Layer      : Top Glue Points
 
@@ -249,7 +249,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Glue Points
-      File : PCB-Powermodule-V7.0.0.GM12
+      File : PCB-Powermodule-v7.0.2.GM12
 
     Adding Layer      : Bottom Glue Points
 
@@ -259,7 +259,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Layer
-      File : PCB-Powermodule-V7.0.0.GBL
+      File : PCB-Powermodule-v7.0.2.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -290,7 +290,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Layer
-      File : PCB-Powermodule-V7.0.0.GTL
+      File : PCB-Powermodule-v7.0.2.GTL
 
     Adding Layer      : Top Layer
 
@@ -350,7 +350,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Overlay
-      File : PCB-Powermodule-V7.0.0.GBO
+      File : PCB-Powermodule-v7.0.2.GBO
 
     Adding Layer      : Bottom Overlay
 
@@ -363,7 +363,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Keep-Out Layer
-      File : PCB-Powermodule-V7.0.0.GKO
+      File : PCB-Powermodule-v7.0.2.GKO
 
     Adding Layer      : Keep-Out Layer
 
@@ -373,7 +373,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Drill Drawing
-      File : PCB-Powermodule-V7.0.0.GD1
+      File : PCB-Powermodule-v7.0.2.GD1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -389,7 +389,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Drill Guide
-      File : PCB-Powermodule-V7.0.0.GG1
+      File : PCB-Powermodule-v7.0.2.GG1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -398,5 +398,14 @@ Generating : Drill Guide
 
 Used DCodes :
     D115
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB-Powermodule-v7.0.2.GM
+
+
+Used DCodes :
+    D117
 *************************************************************
 

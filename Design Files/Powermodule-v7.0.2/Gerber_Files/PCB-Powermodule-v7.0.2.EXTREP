@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB-Powermodule-V7.0.0.GBR   3/6/2024  5:22:11 PM
+Gerber File Extension Report For: PCB-Powermodule-v7.0.2.GBR   02/05/2024  12:45:19 pm
 ------------------------------------------------------------------------------------------
 
 
@@ -22,4 +22,5 @@ Layer Extension     Layer Description
 .GPB                Bottom Pad Master                       
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
+.GM                 Profile                                 
 ------------------------------------------------------------------------------------------
