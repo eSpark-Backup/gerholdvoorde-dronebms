@@ -1,4 +1,4 @@
-Designator,MID X,MID Y,Layer,Rotation
+Designator,Mid X,Mid Y,Layer,Rotation
 C1,-1.1227mm,-11.6995mm,Top,90
 C2,-4.5009mm,-18.1765mm,Top,0
 C3,38.7604mm,-30.3022mm,Top,90
@@ -76,6 +76,8 @@ P17,70.7644mm,-18.6944mm,Bottom,180
 P18,65.8876mm,-14.0716mm,Bottom,180
 P19,68.4022mm,-14.0716mm,Bottom,180
 P20,57.9831mm,-20.5486mm,Bottom,180
+P21,68.5038mm,-25.6540mm,Bottom,180
+P22,64.2112mm,-25.6540mm,Bottom,180
 P24,57.9831mm,-12.6139mm,Bottom,180
 P25,57.9831mm,-15.8515mm,Bottom,180
 P26,57.9831mm,-18.2000mm,Bottom,180

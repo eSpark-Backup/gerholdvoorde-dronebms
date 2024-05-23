@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-D:\eSpark-Consultants\gerholdvoorde-dronebms\Design Files\Powermodule-v7.0.2\Project Outputs for Powermodule-v7.0.3\Pick Place for PCB-Powermodule-v7.0.3.txt
+D:\eSpark-Consultants\gerholdvoorde-dronebms\Design Files\Powermodule-v7.0.3\Project Outputs for Powermodule-v7.0.3\Pick Place for PCB-Powermodule-v7.0.3.txt
 
 ========================================================================================================================
 File Design Information:
 
 Date:       23/05/24
-Time:       14:55
-Revision:   Not in VersionControl
+Time:       17:03
+Revision:   ad6c45a6c743c5e8c2452175998fc9ab4a9291e7
 Variant:    No variations
 Units used: mm
 
@@ -88,6 +88,8 @@ P17        -18.6944mm   70.7644mm    BottomLayer 180      70.7644mm  -18.6944mm 
 P18        -14.0716mm   65.8876mm    BottomLayer 180      65.8876mm  -14.0716mm 65.8876mm  -14.0716mm 
 P19        -14.0716mm   68.4022mm    BottomLayer 180      68.4022mm  -14.0716mm 68.4022mm  -14.0716mm 
 P20        -20.5486mm   57.9831mm    BottomLayer 180      57.9831mm  -20.5486mm 57.9831mm  -20.5486mm 
+P21        -25.6540mm   68.5038mm    BottomLayer 180      68.5038mm  -25.6540mm 68.5038mm  -25.6540mm 
+P22        -25.6540mm   64.2112mm    BottomLayer 180      64.2112mm  -25.6540mm 64.2112mm  -25.6540mm 
 P24        -12.6139mm   57.9831mm    BottomLayer 180      57.9831mm  -12.6139mm 57.9831mm  -12.6139mm 
 P25        -15.8515mm   57.9831mm    BottomLayer 180      57.9831mm  -15.8515mm 57.9831mm  -15.8515mm 
 P26        -18.2000mm   57.9831mm    BottomLayer 180      57.9831mm  -18.2000mm 57.9831mm  -18.2000mm 
