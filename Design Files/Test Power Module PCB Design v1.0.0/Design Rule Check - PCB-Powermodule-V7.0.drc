@@ -1,0 +1,84 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\eSpark\Desktop\gerholdvoorde-dronebms\Design Files\Powermodule-v7.0.0\PCB-Powermodule-V7.0.0.PcbDoc
+Date     : 3/5/2024
+Time     : 6:37:30 PM
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-9(2885.679mil,-310.156mil) on Top Layer And Pad C32-1(2987.8mil,-235.61mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R15-2(536.8mil,-1414.61mil) on Top Layer [Unplated] And Pad J2-A13(537.91mil,-1202.758mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (-178.69mil,-488.525mil)(-178.69mil,-442.145mil) on Top Layer And Pad U6-7(-29.15mil,-511.559mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VOXL_USB_N Between Via (1439.799mil,66.426mil) from Top Layer to Bottom Layer And Track (1451.267mil,58.103mil)(1466.916mil,58.103mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VOXL_USB_P Between Via (1440.408mil,37.811mil) from Top Layer to Bottom Layer And Track (1451.918mil,41.103mil)(1477.754mil,41.103mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (2840.3mil,-740.61mil)(2842.8mil,-740.61mil) on Top Layer And Via (2842mil,-780mil) from Top Layer to Bottom Layer 
+Rule Violations :6
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=11.811mil) (MinWidth=23.622mil) (MaxWidth=23.622mil) (PreferedWidth=23.622mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=5mil) (Max=5mil) (Prefered=5mil)  and Width Constraints (Min=8mil) (Max=12mil) (Prefered=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('USB-WIFI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('D'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('VOXL_USB'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('USB_D'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 10mil, Vertical Gap = 10mil ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:06
