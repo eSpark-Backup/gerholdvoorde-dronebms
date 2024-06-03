@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Test Power Module PCB.PcbDoc   27/05/2024  7:30:21 pm
+NCDrill File Report For: Test Power Module PCB.PcbDoc   03/06/2024  11:55:27 am
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII RoundHoles File : Test Power Module PCB.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      37mil (0.95mm)                                            Round             4         PTH        0.30inch (7.62mm)
-T2      63mil (1.6mm)                                             Round             5         PTH        0.63inch (16.00mm)
+T2      63mil (1.6mm)                                             Round             5         PTH        4.76inch (120.85mm)
 T3      146mil (3.7mm)                                            Round             4         PTH        4.90inch (124.50mm)
 T4      35mil (0.9mm)                                             Round             2         NPTH       0.17inch (4.25mm)
 ----------------------------------------------------------------------------------------------------------------------------------

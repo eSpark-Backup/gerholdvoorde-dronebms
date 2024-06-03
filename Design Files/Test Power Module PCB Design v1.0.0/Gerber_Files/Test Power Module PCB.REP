@@ -2,26 +2,6 @@
 FileName = Test Power Module PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Glue Points
-      File : Test Power Module PCB.GM12
-
-    Adding Layer      : Bottom Glue Points
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Glue Points
-      File : Test Power Module PCB.GM11
-
-    Adding Layer      : Top Glue Points
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Board_outline
       File : Test Power Module PCB.GM2
 
@@ -29,8 +9,8 @@ Generating : Board_outline
 
 
 Used DCodes :
-    D12
-    D35
+    D32
+    D33
 *************************************************************
 
 *************************************************************
@@ -51,6 +31,8 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
+    D10
+    D12
 *************************************************************
 
 *************************************************************
@@ -79,12 +61,11 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D20
     D21
     D22
     D23
     D24
-    D25
-    D26
 *************************************************************
 
 *************************************************************
@@ -99,6 +80,7 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D17
     D18
     D19
     D20
@@ -106,8 +88,6 @@ Used DCodes :
     D22
     D23
     D24
-    D25
-    D26
 *************************************************************
 
 *************************************************************
@@ -122,9 +102,31 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D14
     D15
     D16
-    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Test Power Module PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
@@ -139,47 +141,6 @@ Used DCodes :
     D11
     D12
     D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Test Power Module PCB.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D27
-    D30
-    D31
-    D32
-    D33
-    D34
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Test Power Module PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
 *************************************************************
 
 *************************************************************
@@ -192,16 +153,15 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
+    D28
+    D29
     D30
     D31
-    D32
-    D33
-    D34
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Test Power Module PCB.GTL
+Generating : Top Pad Master
+      File : Test Power Module PCB.GPT
 
     Adding Layer      : Top Layer
 
@@ -209,17 +169,31 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D14
     D15
     D16
-    D17
-    D27
+    D25
     D28
     D29
     D30
     D31
-    D32
-    D33
-    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Test Power Module PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D28
+    D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
@@ -232,10 +206,10 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D12
+    D32
+    D34
+    D35
     D36
-    D37
-    D38
 *************************************************************
 
 *************************************************************
@@ -248,7 +222,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D36
+    D34
 *************************************************************
 
 *************************************************************
@@ -257,6 +231,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D39
+    D37
 *************************************************************
 

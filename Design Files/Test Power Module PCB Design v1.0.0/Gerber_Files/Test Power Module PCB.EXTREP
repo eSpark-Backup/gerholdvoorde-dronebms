@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Test Power Module PCB.GBR   27/05/2024  7:29:42 pm
+Gerber File Extension Report For: Test Power Module PCB.GBR   03/06/2024  11:53:43 am
 ------------------------------------------------------------------------------------------
 
 
@@ -15,8 +15,6 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM2                Board_outline                           
-.GM11               Top Glue Points                         
-.GM12               Bottom Glue Points                      
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
