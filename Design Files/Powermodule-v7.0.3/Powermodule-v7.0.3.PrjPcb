@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Powermodule-v7.0.3
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CHYHRKAY
 
 [Document9]
-DocumentPath=USB HUB Section.SchDoc
+DocumentPath=USB HUB_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -355,7 +355,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=USB HUB Section.Harness
+DocumentPath=USB HUB_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -382,7 +382,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_SmartPDF]
-AutoOpenFile=0
+AutoOpenFile=-1
 AutoOpenOutJob=0
 
 [Generic_SmartPDFSettings]
@@ -420,7 +420,7 @@ Wir_PrintColor=0
 Ldr_PrintColor=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Powermodule-v7.0.3
 
 [OutputGroup1]
 Name=Netlist Outputs
