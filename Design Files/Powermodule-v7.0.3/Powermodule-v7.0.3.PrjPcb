@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Powermodule-v7.0.3
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -420,7 +420,7 @@ Wir_PrintColor=0
 Ldr_PrintColor=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Powermodule-v7.0.3
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
