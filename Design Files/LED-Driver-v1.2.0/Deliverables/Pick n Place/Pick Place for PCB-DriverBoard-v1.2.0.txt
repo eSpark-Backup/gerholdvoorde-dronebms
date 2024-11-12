@@ -1,0 +1,44 @@
+Altium Designer Pick and Place Locations
+D:\eSpark-Consultants\gerholdvoorde-dronebms\Design Files\LED-Driver-v1.2.0\Project Outputs for LED_Driver-v1.2.0\Pick Place for PCB-DriverBoard-v1.2.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/11/24
+Time:       21:23
+Revision:   9db056aabfff0de898379822b70cb02a7ff2746e
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm)  Ref-Y(mm) Pad-X(mm)  Pad-Y(mm) 
+C1         BottomLayer 125.4796mm   87.3252mm    0        125.4796mm 87.3252mm 124.2096mm 87.3252mm 
+LED1       TopLayer    112.9796mm   84.5309mm    135      112.9796mm 84.5309mm 114.0226mm 85.5739mm 
+LED2       TopLayer    137.9796mm   84.5309mm    225      137.9796mm 84.5309mm 136.9366mm 85.5739mm 
+LED3       TopLayer    137.9796mm   65.5309mm    315      137.9796mm 65.5309mm 136.9366mm 64.4879mm 
+LED4       TopLayer    112.9796mm   65.5309mm    45       112.9796mm 65.5309mm 114.0226mm 64.4879mm 
+Q1         BottomLayer 116.1120mm   89.1032mm    270      116.1120mm 89.1032mm 117.1620mm 90.0532mm 
+Q2         BottomLayer 134.8472mm   89.1032mm    90       134.8472mm 89.1032mm 133.7972mm 88.1532mm 
+Q3         BottomLayer 135.0518mm   68.8934mm    0        135.0518mm 68.8934mm 134.1018mm 69.9434mm 
+Q4         BottomLayer 115.9074mm   68.8934mm    0        115.9074mm 68.8934mm 114.9574mm 69.9434mm 
+Q5         BottomLayer 111.5006mm   88.0940mm    135      111.8365mm 88.4299mm 111.8012mm 87.0511mm 
+Q6         BottomLayer 139.4586mm   88.0940mm    225      139.1227mm 88.4299mm 140.5016mm 88.3946mm 
+Q7         BottomLayer 142.3670mm   66.8434mm    180      142.3670mm 66.8434mm 143.3170mm 65.8434mm 
+Q8         BottomLayer 108.4326mm   66.8434mm    180      108.4326mm 66.8434mm 109.3826mm 65.8434mm 
+R1         BottomLayer 118.5164mm   89.1032mm    270      118.5164mm 89.1032mm 118.5164mm 89.8652mm 
+R2         BottomLayer 132.4088mm   89.1032mm    90       132.4088mm 89.1032mm 132.4088mm 88.3412mm 
+R3         BottomLayer 134.6098mm   71.2870mm    0        134.6098mm 71.2870mm 133.8478mm 71.2870mm 
+R4         BottomLayer 115.4654mm   71.2870mm    0        115.4654mm 71.2870mm 114.7034mm 71.2870mm 
+R5         BottomLayer 110.1324mm   86.7611mm    135      110.1324mm 86.7611mm 110.6712mm 86.2223mm 
+R6         BottomLayer 140.8268mm   86.7611mm    225      140.8268mm 86.7611mm 141.3656mm 87.3000mm 
+R7         BottomLayer 142.3670mm   64.3972mm    180      142.3670mm 64.3972mm 143.1290mm 64.3972mm 
+R8         BottomLayer 108.4326mm   64.3972mm    180      108.4326mm 64.3972mm 109.1946mm 64.3972mm 
+R9         BottomLayer 143.0092mm   79.2480mm    90       143.0092mm 79.2480mm 143.0092mm 77.9780mm 
+R10        BottomLayer 143.0092mm   71.3994mm    270      143.0092mm 71.3994mm 143.0092mm 72.6694mm 
+R11        BottomLayer 107.9500mm   71.3994mm    270      107.9500mm 71.3994mm 107.9500mm 72.6694mm 
+R12        BottomLayer 107.9500mm   79.2480mm    90       107.9500mm 79.2480mm 107.9500mm 77.9780mm 
+TP1        BottomLayer 107.6452mm   84.6582mm    0        107.6452mm 84.6582mm 107.6452mm 84.6582mm 
+TP2        BottomLayer 143.3068mm   84.6582mm    180      143.3068mm 84.6582mm 143.3068mm 84.6582mm 
+TP3        BottomLayer 140.1064mm   61.3918mm    180      140.1064mm 61.3918mm 140.1064mm 61.3918mm 
+TP4        BottomLayer 111.0742mm   61.1632mm    180      111.0742mm 61.1632mm 111.0742mm 61.1632mm 
+TP5        BottomLayer 126.9528mm   89.6148mm    180      126.9528mm 89.6148mm 126.9528mm 89.6148mm 
+TP6        BottomLayer 124.0064mm   89.6148mm    180      124.0064mm 89.6148mm 124.0064mm 89.6148mm 
