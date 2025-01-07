@@ -355,7 +355,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=Delievrables\Gerber_files\NC_Drill_File.Cam
+DocumentPath=Delievrables\Gerber_files\NC_Drill_file.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

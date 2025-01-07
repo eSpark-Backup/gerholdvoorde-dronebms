@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB-Powermodule-v8.0.0.PcbDoc   1/6/2025  7:35:20 PM
+NCDrill File Report For: PCB-Powermodule-v8.0.0.PcbDoc   1/7/2025  9:44:36 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : PCB-Powermodule-v8.0.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             325       PTH        32.99inch (837.89mm)
+T1      12mil (0.3mm)                                             Round             325       PTH        32.91inch (835.91mm)
 T2      20mil (0.5mm)                                             Slot              4         PTH        1.68inch (42.79mm)
 T3      40mil (1.016mm)                                           Round             8         PTH        4.40inch (111.70mm)
 T4      146mil (3.7mm)                                            Round             4         PTH        4.90inch (124.50mm)
@@ -20,4 +20,4 @@ T9      40mil (1.02mm)                                            Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              349
 
-Total Processing Time (hh:mm:ss) : 00:00:11
+Total Processing Time (hh:mm:ss) : 00:00:07

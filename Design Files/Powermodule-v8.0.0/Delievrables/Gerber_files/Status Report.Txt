@@ -1,11 +1,13 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [Powermodule-v8.0.0.PrjPcb]
-   Generated File[Pick Place for PCB-Powermodule-v8.0.0.txt]
-   Generated File[Pick Place for PCB-Powermodule-v8.0.0.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Powermodule-v8.0.0.PrjPcb]
+   Generated File[PCB-Powermodule-v8.0.0-RoundHoles.TXT]
+   Generated File[PCB-Powermodule-v8.0.0-SlotHoles.TXT]
+   Generated File[PCB-Powermodule-v8.0.0.LDP]
+   Generated File[PCB-Powermodule-v8.0.0.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 7:51:32 PM On 1/6/2025
+Finished Output Generation At 9:44:44 AM On 1/7/2025
