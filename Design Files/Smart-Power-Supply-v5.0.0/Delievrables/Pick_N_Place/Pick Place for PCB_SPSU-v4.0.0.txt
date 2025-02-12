@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+S:\gerholdvoorde-dronebms\Design Files\Smart-Power-Supply-v5.0.0\Project Outputs for Smart Power Supply Unit-v5.0.0\Pick Place for PCB_SPSU-v4.0.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/02/25
+Time:       17:17
+Revision:   68435757e87a28f58596cf677cfee8e7785f268a
+Variant:    No variations
+Units used: mm
+
+Designator Center-X(mm) Center-Y(mm) Layer       Rotation Ref-X(mm) Ref-Y(mm)  Pad-X(mm) Pad-Y(mm)  
+C1         6.3754mm     -40.4622mm   TopLayer    180      6.3754mm  -40.4622mm 6.8453mm  -40.4622mm 
+C2         11.3411mm    -40.4622mm   TopLayer    180      11.3411mm -40.4622mm 11.8110mm -40.4622mm 
+C3         16.2941mm    -40.4622mm   TopLayer    180      16.2941mm -40.4622mm 16.7640mm -40.4622mm 
+C4         21.1963mm    -40.4622mm   TopLayer    180      21.1963mm -40.4622mm 21.6662mm -40.4622mm 
+J1         19.3371mm    -17.4831mm   TopLayer    0        19.3371mm -17.4831mm 15.5869mm -15.8832mm 
+J2         19.3371mm    -1.7097mm    TopLayer    90       11.7171mm -1.7097mm  11.7171mm -1.7097mm  
+P1         6.0198mm     -0.5334mm    BottomLayer 90       6.0198mm  -0.5334mm  6.0198mm  -0.5334mm  
+P2         11.8872mm    -24.3586mm   BottomLayer 90       11.8872mm -24.3586mm 11.8872mm -24.3586mm 
+P3         32.8676mm    -0.5334mm    BottomLayer 90       32.8676mm -0.5334mm  32.8676mm -0.5334mm  
+P9         11.9640mm    -31.5072mm   BottomLayer 180      11.9640mm -31.5072mm 11.9640mm -31.5072mm 
+P12        26.7102mm    -31.5072mm   BottomLayer 180      26.7102mm -31.5072mm 26.7102mm -31.5072mm 
+SW1        28.9891mm    -48.3187mm   TopLayer    0        28.9891mm -48.3187mm 27.7641mm -47.3437mm 
+U1         6.4516mm     -41.8846mm   TopLayer    0        6.4516mm  -41.8846mm 6.0266mm  -41.4596mm 
+U2         11.3899mm    -41.8846mm   TopLayer    0        11.3899mm -41.8846mm 10.9649mm -41.4596mm 
+U3         16.3283mm    -41.8846mm   TopLayer    0        16.3283mm -41.8846mm 15.9033mm -41.4596mm 
+U4         21.2666mm    -41.8846mm   TopLayer    0        21.2666mm -41.8846mm 20.8416mm -41.4596mm 
