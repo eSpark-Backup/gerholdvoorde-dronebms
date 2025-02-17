@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIEIJHGG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for USB-C (male) to FFC Adapter\Design Rule Check - USB_C (male)_FFC.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
