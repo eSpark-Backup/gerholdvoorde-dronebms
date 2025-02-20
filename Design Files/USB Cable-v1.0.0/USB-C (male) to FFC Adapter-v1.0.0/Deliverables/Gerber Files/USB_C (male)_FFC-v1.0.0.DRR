@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB_C (male)_FFC-v1.0.0.PcbDoc   2/20/2025  2:27:09 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB_C (male)_FFC-v1.0.0-RoundHoles.TXT
+ASCII SlotHoles File : USB_C (male)_FFC-v1.0.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             35        PTH        2.32inch (58.89mm)
+T2      20mil (0.5mm)                                             Slot              2         PTH        0.65inch (16.44mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              37
+
+Total Processing Time (hh:mm:ss) : 00:00:00

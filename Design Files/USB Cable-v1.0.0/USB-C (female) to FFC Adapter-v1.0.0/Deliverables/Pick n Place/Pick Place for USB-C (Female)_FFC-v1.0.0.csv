@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+D:\eSpark-Consultants\gerholdvoorde-dronebms\Design Files\USB Cable-v1.0.0\USB-C (female) to FFC Adapter-v1.0.0\Project Outputs for USB-C (female) to FFC Adapter-v1.0.0\Pick Place for USB-C (Female)_FFC-v1.0.0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/02/25
+Time:       13:20
+Revision:   3a50ed21c80134d154e1e35148a666e89719043f
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"C1","TopLayer","8.1534mm","10.7188mm","90","8.1534mm","10.7188mm","8.1534mm","10.4188mm"
+"C2","TopLayer","11.4427mm","1.0287mm","180","11.4427mm","1.0287mm","11.7427mm","1.0287mm"
+"D1","TopLayer","7.2009mm","10.7188mm","90","7.2009mm","10.7188mm","7.2009mm","10.3938mm"
+"J1","TopLayer","13.1293mm","6.8681mm","90","16.0143mm","6.8681mm","10.2443mm","3.8681mm"
+"J2","TopLayer","4.0170mm","7.1500mm","270","4.0170mm","7.1500mm","5.3670mm","10.3999mm"
+"R3","TopLayer","9.8723mm","1.0414mm","0","9.8723mm","1.0414mm","9.5973mm","1.0414mm"
