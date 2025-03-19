@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Charge Control-v1.0.0.PcbDoc   3/18/2025  3:26:48 PM
+NCDrill File Report For: Charge Control-v1.0.0.PcbDoc   3/19/2025  3:37:11 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : Charge Control-v1.0.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             15        PTH        1.75inch (44.45mm)
+T1      12mil (0.3mm)                                             Round             34        PTH        3.65inch (92.73mm)
 T2      39mil (1mm)                                               Round             7         PTH        0.59inch (15.00mm)
-T3      40mil (1.016mm)                                           Round             4         PTH        0.86inch (21.84mm)
+T3      40mil (1.016mm)                                           Round             4         PTH        1.17inch (29.65mm)
 T4      91mil (2.3mm)                                             Round             2         NPTH       0.79inch (20.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              28
+Totals                                                                              47
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -2,147 +2,6 @@
 FileName = Charge Control-v1.0.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : Charge Control-v1.0.0.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D56
-    D57
-*************************************************************
-
-*************************************************************
-Generating : Fabrication
-      File : Charge Control-v1.0.0.GM3
-
-    Adding Layer      : Fabrication
-
-
-Used DCodes :
-    D38
-    D39
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Charge Control-v1.0.0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D38
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Charge Control-v1.0.0.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D38
-    D39
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Charge Control-v1.0.0.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D34
-    D35
-    D36
-    D37
-    D60
-    D61
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Charge Control-v1.0.0.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D53
-    D54
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : Charge Control-v1.0.0.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Charge Control-v1.0.0.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Charge Control-v1.0.0.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : Charge Control-v1.0.0.GTL
 
@@ -159,6 +18,8 @@ Used DCodes :
     D19
     D20
     D21
+    D36
+    D37
     D38
     D39
     D40
@@ -177,6 +38,74 @@ Used DCodes :
     D53
     D54
     D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Fabrication
+      File : Charge Control-v1.0.0.GM3
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
+    D37
+    D39
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Charge Control-v1.0.0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D39
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Charge Control-v1.0.0.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D56
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Charge Control-v1.0.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D58
+    D59
 *************************************************************
 
 *************************************************************
@@ -205,8 +134,56 @@ Used DCodes :
     D33
     D34
     D35
-    D36
-    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Charge Control-v1.0.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Charge Control-v1.0.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D39
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Charge Control-v1.0.0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Charge Control-v1.0.0.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
 *************************************************************
 
 *************************************************************
@@ -231,8 +208,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Charge Control-v1.0.0.GPB
+Generating : Bottom Solder
+      File : Charge Control-v1.0.0.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -240,10 +219,33 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D53
-    D54
+    D32
+    D33
+    D34
+    D35
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Charge Control-v1.0.0.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D55
     D56
-    D57
 *************************************************************
 
 *************************************************************
@@ -257,9 +259,9 @@ Generating : Drill Drawing
 
 Used DCodes :
     D10
-    D38
+    D37
     D39
-    D64
+    D66
 *************************************************************
 
 *************************************************************
@@ -281,6 +283,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D65
+    D67
 *************************************************************
 
