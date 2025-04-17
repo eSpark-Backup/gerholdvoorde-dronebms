@@ -270,7 +270,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=Powermodule-v8.0.0.Annotation
+DocumentPath=Powermodule-v9.0.0.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
