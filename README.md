@@ -2,10 +2,9 @@
 
 ## Project Requirements
 [Requirements Document](https://docs.google.com/document/d/1HwCwU0NZK4SfBbceRvGtYb6am0WZ7dugDeT3MsA2zgc/edit?usp=sharing)  
-Datasheet:  
-https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17201-MAX17215.pdf 
-Pcb design document:
-https://www.analog.com/media/en/technical-documentation/user-guides/max1720xmax1721x-system-side-implementation-guide.pdf 
+[Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17201-MAX17215.pdf)  
+[PCB Design Document](https://www.analog.com/media/en/technical-documentation/user-guides/max1720xmax1721x-system-side-implementation-guide.pdf)
+
 
 ### Important Points
 * PCB should be designed considering maximum of 20A of discharge current from the battery.
