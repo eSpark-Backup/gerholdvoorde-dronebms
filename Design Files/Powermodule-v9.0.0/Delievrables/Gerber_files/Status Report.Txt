@@ -1,6 +1,6 @@
 Output: Generates pick and place files
 Type  : Pick Place
-From  : Variant [[No Variations]] of Project [Powermodule-v8.0.0.PrjPcb]
+From  : Variant [[No Variations]] of Project [Powermodule-v9.0.0.PrjPcb]
    Generated File[Pick Place for PCB-Powermodule-v8.0.0.txt]
    Generated File[Pick Place for PCB-Powermodule-v8.0.0.csv]
 
@@ -8,4 +8,4 @@ From  : Variant [[No Variations]] of Project [Powermodule-v8.0.0.PrjPcb]
 Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 5:40:23 PM On 1/30/2025
+Finished Output Generation At 5:20:00 PM On 4/20/2025
