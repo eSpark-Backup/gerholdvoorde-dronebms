@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-S:\gerholdvoorde-dronebms\Design Files\Smart-Power-Supply-v5.0.0\Project Outputs for Smart Power Supply Unit-v5.0.0\Pick Place for PCB_SPSU-v4.0.0.txt
+S:\gerholdvoorde-dronebms\Design Files\Smart-Power-Supply-v6.0.0\Project Outputs for Smart Power Supply Unit-v5.0.0\Pick Place for PCB_SPSU-v4.0.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       12/02/25
-Time:       17:17
-Revision:   68435757e87a28f58596cf677cfee8e7785f268a
+Date:       21/04/25
+Time:       13:24
+Revision:   2c116962f2f00425ec8090edb39ab935942fab76
 Variant:    No variations
 Units used: mm
 
@@ -15,15 +15,28 @@ C1         6.3754mm     -40.4622mm   TopLayer    180      6.3754mm  -40.4622mm 6
 C2         11.3411mm    -40.4622mm   TopLayer    180      11.3411mm -40.4622mm 11.8110mm -40.4622mm 
 C3         16.2941mm    -40.4622mm   TopLayer    180      16.2941mm -40.4622mm 16.7640mm -40.4622mm 
 C4         21.1963mm    -40.4622mm   TopLayer    180      21.1963mm -40.4622mm 21.6662mm -40.4622mm 
-J1         19.3371mm    -17.4831mm   TopLayer    0        19.3371mm -17.4831mm 15.5869mm -15.8832mm 
+J1         19.3294mm    -17.8816mm   TopLayer    0        19.3294mm -17.8816mm 14.9543mm -16.2817mm 
 J2         19.3371mm    -1.7097mm    TopLayer    90       11.7171mm -1.7097mm  11.7171mm -1.7097mm  
 P1         6.0198mm     -0.5334mm    BottomLayer 90       6.0198mm  -0.5334mm  6.0198mm  -0.5334mm  
 P2         11.8872mm    -24.3586mm   BottomLayer 90       11.8872mm -24.3586mm 11.8872mm -24.3586mm 
 P3         32.8676mm    -0.5334mm    BottomLayer 90       32.8676mm -0.5334mm  32.8676mm -0.5334mm  
+P4         -1.3970mm    -15.9258mm   TopLayer    180      -1.3970mm -15.9258mm -1.3970mm -15.9258mm 
+P5         -1.3970mm    -20.8026mm   TopLayer    180      -1.3970mm -20.8026mm -1.3970mm -20.8026mm 
 P9         11.9640mm    -31.5072mm   BottomLayer 180      11.9640mm -31.5072mm 11.9640mm -31.5072mm 
 P12        26.7102mm    -31.5072mm   BottomLayer 180      26.7102mm -31.5072mm 26.7102mm -31.5072mm 
+Q1         0.3660mm     -9.4039mm    TopLayer    270      0.3660mm  -9.4039mm  1.3670mm  -8.2414mm  
+Q2         11.5164mm    -12.0810mm   TopLayer    0        11.5164mm -12.0810mm 10.5664mm -13.0810mm 
+R1         11.0465mm    -14.2900mm   TopLayer    180      11.0465mm -14.2900mm 11.5164mm -14.2900mm 
+R2         -1.7526mm    -12.7381mm   TopLayer    90       -1.7526mm -12.7381mm -1.7526mm -13.2080mm 
+R3         2.9337mm     -10.5918mm   TopLayer    0        2.9337mm  -10.5918mm 2.4638mm  -10.5918mm 
+R4         0.1143mm     -13.1064mm   TopLayer    0        0.1143mm  -13.1064mm -0.3556mm -13.1064mm 
+R5         8.6741mm     -13.9192mm   TopLayer    0        8.6741mm  -13.9192mm 8.2042mm  -13.9192mm 
+R6         9.1186mm     -12.5857mm   TopLayer    90       9.1186mm  -12.5857mm 9.1186mm  -13.0556mm 
+R7         4.7625mm     -10.5918mm   TopLayer    180      4.7625mm  -10.5918mm 5.2324mm  -10.5918mm 
+R8         2.0447mm     -13.1064mm   TopLayer    0        2.0447mm  -13.1064mm 1.5748mm  -13.1064mm 
 SW1        28.9891mm    -48.3187mm   TopLayer    0        28.9891mm -48.3187mm 27.7641mm -47.3437mm 
 U1         6.4516mm     -41.8846mm   TopLayer    0        6.4516mm  -41.8846mm 6.0266mm  -41.4596mm 
 U2         11.3899mm    -41.8846mm   TopLayer    0        11.3899mm -41.8846mm 10.9649mm -41.4596mm 
 U3         16.3283mm    -41.8846mm   TopLayer    0        16.3283mm -41.8846mm 15.9033mm -41.4596mm 
 U4         21.2666mm    -41.8846mm   TopLayer    0        21.2666mm -41.8846mm 20.8416mm -41.4596mm 
+U5         5.5672mm     -12.9642mm   TopLayer    180      5.5672mm  -12.9642mm 6.8672mm  -13.9142mm 
