@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+S:\gerholdvoorde-dronebms\Design Files\Charge Control PCB v2.0.0\Pick Place for Charge Control-v2.0.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/04/25
+Time:       15:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+J1         BottomLayer 10.0000      14.0000      0        10.0000   14.0000   2.5000    14.0000   
+J2         BottomLayer 9.9999       0.7060       180      9.9999    0.7060    13.1254   2.4554    
+P1         TopLayer    20.9090      10.1590      0        20.9090   10.6590   20.9090   10.1590   
+P2         TopLayer    20.9090      6.2540       0        24.9090   6.7540    20.9090   6.2540    
+P3         TopLayer    -0.2540      10.1854      180      -0.2540   10.1854   -0.2540   10.1854   
+P5         TopLayer    -0.2540      5.6681       180      -0.2540   5.6681    -0.2540   5.6681    
+Q1         TopLayer    17.3276      20.9714      0        17.3276   20.9714   16.1651   21.9724   
+Q2         TopLayer    6.0198       21.4122      0        6.0198    21.4122   5.0698    20.4122   
+R1         TopLayer    6.5598       23.4789      0        6.5598    23.4789   6.0899    23.4789   
+R2         TopLayer    17.3276      18.4822      180      17.3276   18.4822   17.7975   18.4822   
+R3         TopLayer    17.3276      23.4606      180      17.3276   23.4606   17.7975   23.4606   
+R4         TopLayer    17.3276      16.5010      180      17.3276   16.5010   17.7975   16.5010   
+R5         TopLayer    9.6205       17.2688      270      9.6205    17.2688   9.6205    17.7387   
+R7         TopLayer    6.0198       19.1770      0        6.0198    19.1770   5.5499    19.1770   
+R8         TopLayer    14.9619      22.9907      90       14.9619   22.9907   14.9619   22.5208   
+R9         TopLayer    14.4920      16.5068      180      14.4920   16.5068   14.9619   16.5068   
+U1         TopLayer    10.6213      20.9518      90       10.6213   20.9518   9.6713    19.6518   

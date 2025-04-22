@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Pick Place for Charge Control-v2.0.0.txt]
+   Generated File[Pick Place for Charge Control-v2.0.0.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 3:47:10 PM On 4/22/2025

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Charge Control PCB-v2.0.0.PrjPcb]
+   Generated File[Charge Control-v2.0.0.TXT]
+   Generated File[Charge Control-v2.0.0.LDP]
+   Generated File[Charge Control-v2.0.0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:39:32 PM On 4/22/2025
