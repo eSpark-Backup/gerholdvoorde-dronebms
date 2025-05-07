@@ -202,7 +202,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BMGDAHMF
 
 [Document10]
-DocumentPath=PCB-Powermodule-v9.0.0.PcbDoc
+DocumentPath=PCB-Powermodule-v10.0.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
