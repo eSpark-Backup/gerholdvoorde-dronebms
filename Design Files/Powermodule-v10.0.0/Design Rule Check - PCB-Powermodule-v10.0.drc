@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : S:\gerholdvoorde-dronebms\Design Files\Powermodule-v10.0.0\PCB-Powermodule-v10.0.0.PcbDoc
-Date     : 5/20/2025
-Time     : 9:02:29 PM
+PCB File : C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\gerholdvoorde-dronebms\Design Files\Powermodule-v10.0.0\PCB-Powermodule-v10.0.0.PcbDoc
+Date     : 5/23/2025
+Time     : 6:43:37 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -10,38 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C22-1(2340.347mil,529.234mil) on Top Layer [Unplated] And Pad U4-8(2452.974mil,516.609mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R17-2(2137.149mil,637.156mil) on Top Layer [Unplated] And Pad C30-2(2174.149mil,553.088mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R4-2(2011.638mil,411.385mil) on Top Layer [Unplated] And Pad C30-2(2174.149mil,553.088mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C42-2(326.81mil,498.627mil) on Bottom Layer [Unplated] And Pad C41-2(326.81mil,562.085mil) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad FB1-1(558.511mil,620.441mil) on Bottom Layer And Via (761.536mil,772.318mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad L2-2(2038.518mil,231.937mil) on Top Layer And Pad J12-6(2084.191mil,58.938mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (1501.029mil,-79.352mil) from Top Layer to Bottom Layer And Pad J1-8(1559.341mil,47.97mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad J3-10(809.472mil,1257.589mil) on Top Layer And Pad U6-5(824.74mil,1304.475mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net CC1 Between Pad J8-A5(152.168mil,838.758mil) on Top Layer And Via (177.265mil,838.409mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R4-2(2011.638mil,411.385mil) on Top Layer [Unplated] And Pad L2-2(2038.518mil,231.937mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net SW_PWR Between Via (1818.667mil,1273.578mil) from Top Layer to Bottom Layer And Pad P3-1(1818.667mil,1310.5mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5V_ESC Between Track (1905.03mil,1170.01mil)(1905.631mil,1170.611mil) on Bottom Layer And Pad Q2-2(2417.37mil,394.598mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetD3_2 Between Track (2485.293mil,469.137mil)(2488.793mil,469.137mil) on Bottom Layer And Pad Q4-3(2543.084mil,525.629mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +5V Between Pad Q7-1(2357.705mil,188.181mil) on Bottom Layer And Pad Q7-2(2357.705mil,227.59mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +5V Between Pad Q7-6(2449.24mil,188.181mil) on Bottom Layer And Pad Q7-5(2449.24mil,227.591mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R10-2(203.677mil,914.679mil) on Bottom Layer [Unplated] And Via (618.626mil,885.758mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +5V Between Via (1321.694mil,658.116mil) from Top Layer to Bottom Layer And Pad R1-2(2011.638mil,410.385mil) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net CC2 Between Via (594.484mil,494.627mil) from Top Layer to Bottom Layer And Pad R27-1(604.95mil,494.627mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net CC1 Between Via (594.484mil,534.054mil) from Top Layer to Bottom Layer And Pad R28-1(604.95mil,534.054mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad SW3-3(830.365mil,-33.228mil) on Bottom Layer And Pad SW3-1(926.822mil,-33.228mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (1579mil,369mil) from Top Layer to Bottom Layer And Track (1649.295mil,250.764mil)(1659.138mil,250.764mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GPIO1 Between Via (240.677mil,942.942mil) from Top Layer to Bottom Layer And Track (248.677mil,985.942mil)(248.677mil,1008.552mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (2530.807mil,789.396mil) from Top Layer to Bottom Layer And Track (2539.816mil,679.191mil)(2540.316mil,679.191mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (1061.723mil,1261.168mil) from Top Layer to Bottom Layer And Via (1335.437mil,1244.202mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (1114.159mil,781.979mil) from Top Layer to Bottom Layer And Via (1312mil,961mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +5V Between Via (641.95mil,464.627mil) from Top Layer to Bottom Layer And Via (1321.694mil,658.116mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (2175.137mil,793.364mil) from Top Layer to Bottom Layer And Via (2223mil,1279.874mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (2175.137mil,793.364mil) from Top Layer to Bottom Layer And Via (2253.283mil,680.234mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (2253.283mil,680.234mil) from Top Layer to Bottom Layer And Via (2335.541mil,679.191mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (2335.541mil,679.191mil) from Top Layer to Bottom Layer And Via (2343.775mil,887.72mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Via (618.626mil,885.758mil) from Top Layer to Bottom Layer And Via (761.536mil,772.318mil) from Top Layer to Bottom Layer 
-Rule Violations :31
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -80,35 +49,22 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (1465.5mil,290.111mil)(1465.5mil,433.857mil) on Ground 
-   Violation between Net Antennae: Via (1114.159mil,781.979mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (1937.181mil,-98.425mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2223mil,1279.874mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2343.775mil,887.72mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2530.807mil,789.396mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (618.626mil,885.758mil) from Top Layer to Bottom Layer 
-Rule Violations :7
+Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('VOXL_USB'))
-   Violation between Matched Net Lengths: Between Net VOXL_USB_N And Net VOXL_USB_P Actual Difference against VOXL_USB_P is: 28.64mil, Tolerance : 20mil. 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('D'))
-   Violation between Matched Net Lengths: Between Net D_N And Net D_P Actual Difference against D_P is: 81.186mil, Tolerance : 20mil. 
-   Violation between Matched Net Lengths: Between Net USB-WIFI_N And Net USB-WIFI_P Actual Difference against USB-WIFI_P is: 21.539mil, Tolerance : 20mil. 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('VOXL_SS_USB'))
-   Violation between Matched Net Lengths: Between Net VOXL_USB_SSTX_N And Net VOXL_USB_SSTX_P Actual Difference against VOXL_USB_SSTX_P is: 60.722mil, Tolerance : 20mil. 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('D_SS'))
-   Violation between Matched Net Lengths: Between Net USB3_RX0_N And Net USB3_RX0_P Actual Difference against USB3_RX0_P is: 21.539mil, Tolerance : 20mil. 
-   Violation between Matched Net Lengths: Between Net USB3_TX0_N And Net USB3_TX0_P Actual Difference against USB3_TX0_P is: 51.828mil, Tolerance : 20mil. 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('USB_D'))
 Rule Violations :0
@@ -120,6 +76,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=39370.079mil) (Prefered=0mil
 Rule Violations :0
 
 
-Violations Detected : 44
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:13
+Time Elapsed        : 00:00:04

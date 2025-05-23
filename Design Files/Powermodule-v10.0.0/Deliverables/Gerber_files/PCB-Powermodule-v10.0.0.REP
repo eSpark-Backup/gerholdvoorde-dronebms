@@ -97,8 +97,8 @@ Generating : Bottom Paste
 
 Used DCodes :
     D23
-    D26
-    D29
+    D24
+    D27
     D30
     D32
     D34
@@ -141,8 +141,8 @@ Generating : Bottom Solder
 
 Used DCodes :
     D68
-    D71
-    D75
+    D69
+    D72
     D76
     D77
     D79
@@ -415,8 +415,8 @@ Generating : Bottom Pad Master
 
 Used DCodes :
     D23
-    D26
-    D29
+    D24
+    D27
     D30
     D32
     D34
@@ -462,10 +462,10 @@ Generating : Bottom Layer
 Used DCodes :
     D10
     D11
-    D16
+    D17
     D23
-    D26
-    D29
+    D24
+    D27
     D30
     D32
     D34
@@ -535,13 +535,33 @@ Generating : Power
 
 Used DCodes :
     D10
-    D16
+    D17
     D141
     D142
     D143
     D144
-    D202
+    D201
     D204
+*************************************************************
+
+*************************************************************
+Generating : Ground
+      File : PCB-Powermodule-v10.0.0.G1
+
+    Adding Layer      : Ground
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D143
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
 *************************************************************
 
 *************************************************************
@@ -556,8 +576,8 @@ Generating : Top Layer
 Used DCodes :
     D10
     D12
-    D16
     D17
+    D18
     D23
     D24
     D25
@@ -677,26 +697,6 @@ Used DCodes :
     D202
     D203
     D204
-*************************************************************
-
-*************************************************************
-Generating : Ground
-      File : PCB-Powermodule-v10.0.0.G1
-
-    Adding Layer      : Ground
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D143
-    D201
-    D202
-    D203
-    D204
-    D205
-    D206
 *************************************************************
 
 *************************************************************
