@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : S:\gerholdvoorde-dronebms\Design Files\Powermodule-v10.1.0\PCB-Powermodule-v10.1.0.PcbDoc
+Date         : 6/3/2025
+Time         : 5:27:56 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 71.30%
+    Connections, 568
+    Connections routed, 405
+    Connections remaining, 163
+count : 4
+
+Net Track Width, Count
+    5mils, 124
+    10mils, 34
+count : 2
