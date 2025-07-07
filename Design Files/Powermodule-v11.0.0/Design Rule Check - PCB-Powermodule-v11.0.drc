@@ -1,0 +1,90 @@
+Protel Design System Design Rule Check
+PCB File : S:\gerholdvoorde-dronebms\Design Files\Powermodule-v11.0.0\PCB-Powermodule-v11.0.0.PcbDoc
+Date     : 7/8/2025
+Time     : 1:11:42 AM
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+   Violation between Clearance Constraint: (4.787mil < 5mil) Between Track (1171.014mil,1173.462mil)(1309.946mil,1312.394mil) on Power And Via (1190.203mil,1221.78mil) from Top Layer to Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J8-B12(-30.19mil,691.394mil) on Bottom Layer And Pad D15-1(-27.948mil,781.703mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-272.71mil,510.194mil) from Top Layer to Bottom Layer And Pad LED5-2(-243.472mil,518mil) on Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=11.811mil) (MinWidth=23.622mil) (MaxWidth=23.622mil) (PreferedWidth=23.622mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=7mil) (Max=7mil) (Prefered=7mil)  and Width Constraints (Min=6mil) (Max=11mil) (Prefered=11mil) (InDifferentialPairClass('All Differential Pairs'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('VOXL_USB'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('D'))
+   Violation between Matched Net Lengths: Between Net D_N And Net D_P Actual Difference against D_P is: 21.539mil, Tolerance : 20mil. 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('VOXL_SS_USB'))
+   Violation between Matched Net Lengths: Between Net VOXL_USB_SSTX_N And Net VOXL_USB_SSTX_P Actual Difference against VOXL_USB_SSTX_P is: 59.948mil, Tolerance : 20mil. 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('D_SS'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('USB_D'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 10mil, Vertical Gap = 10mil ) (All),(All) 
+   Violation between Component Clearance Constraint: (Collision < 10mil) Between Component U12-XL-1010RGBC-WS2812B (-222.747mil,726.926mil) on Top Layer And Small Component LED_PIPE1-LPA-C041301S-20 (-222.237mil,818.07mil) on Top Layer 
+   Violation between Component Clearance Constraint: (Collision < 10mil) Between Component U13-XL-1010RGBC-WS2812B (-222.747mil,526.926mil) on Top Layer And Small Component LED_PIPE1-LPA-C041301S-20 (-222.237mil,818.07mil) on Top Layer 
+   Violation between Component Clearance Constraint: (Collision < 10mil) Between Component U5-XL-1010RGBC-WS2812B (-223.351mil,1127.696mil) on Top Layer And Small Component LED_PIPE1-LPA-C041301S-20 (-222.237mil,818.07mil) on Top Layer 
+   Violation between Component Clearance Constraint: (Collision < 10mil) Between Component U7-XL-1010RGBC-WS2812B (-222.747mil,926.926mil) on Top Layer And Small Component LED_PIPE1-LPA-C041301S-20 (-222.237mil,818.07mil) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mil) (Max=39370.079mil) (Prefered=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Waived Violations : 0
+Time Elapsed        : 00:00:20
