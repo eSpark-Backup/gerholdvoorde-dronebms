@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Docking-Station-PCB_Project.PrjPcb]
+   Generated File[Docking-Station-PCB-RoundHoles.TXT]
+   Generated File[Docking-Station-PCB-SlotHoles.TXT]
+   Generated File[Docking-Station-PCB.LDP]
+   Generated File[Docking-Station-PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:39:22 PM On 7/11/2025

@@ -1,0 +1,14 @@
+Altium Designer Pick and Place Locations
+S:\gerholdvoorde-dronebms\Design Files\Docking-Station-PCB_Project\Project Outputs for Docking-Station-PCB_Project\Pick Place for Docking-Station-PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/07/25
+Time:       18:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J1","0.0000mm","9.5000mm","TopLayer","180","2.0066mm","9.5000mm","2.0066mm","9.5000mm"

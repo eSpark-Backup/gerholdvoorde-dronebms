@@ -1,0 +1,14 @@
+Altium Designer Pick and Place Locations
+S:\gerholdvoorde-dronebms\Design Files\Drone_Charge_PCB_Project\Project Outputs for Dron_Charge_PCB_Project\Pick Place for Drone_Charge_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/07/25
+Time:       18:58
+Revision:   7d33b793289b5dc8c6577db723a5a2b024b342a6
+Variant:    No variations
+Units used: mil
+
+"Designator","Center-X(mil)","Center-Y(mil)","Layer","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"J1","275.591","0.000","TopLayer","180","275.591","0.000","275.591","0.000"

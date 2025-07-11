@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Dron_Charge_PCB_Project.PrjPcb]
+   Generated File[Pick Place for Drone_Charge_PCB.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:54:36 PM On 7/11/2025
