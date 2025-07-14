@@ -2,55 +2,10 @@
 FileName = PCB-Powermodule-v11.0.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Fabrication
-      File : PCB-Powermodule-v11.0.0.GM3
+Generating : Ground
+      File : PCB-Powermodule-v11.0.0.G1
 
-    Adding Layer      : Fabrication
-
-
-Used DCodes :
-    D10
-    D267
-    D268
-*************************************************************
-
-*************************************************************
-Generating : Bottom Glue Points
-      File : PCB-Powermodule-v11.0.0.GM12
-
-    Adding Layer      : Bottom Glue Points
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Glue Points
-      File : PCB-Powermodule-v11.0.0.GM11
-
-    Adding Layer      : Top Glue Points
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Board_outline
-      File : PCB-Powermodule-v11.0.0.GM2
-
-    Adding Layer      : Board_outline
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB-Powermodule-v11.0.0.GBL
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Ground
 
     Adding Layer      : Multi-Layer
 
@@ -59,254 +14,12 @@ Used DCodes :
     D10
     D17
     D18
-    D30
-    D31
-    D35
-    D37
-    D44
-    D45
-    D46
-    D47
-    D48
-    D50
-    D58
-    D59
-    D66
-    D123
-    D132
-    D133
-    D134
-    D184
-    D185
-    D186
     D187
     D188
-    D189
+    D190
     D191
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-    D205
-    D206
-    D207
-    D208
-    D209
-    D210
-    D211
-    D212
-    D213
-    D214
-    D215
-    D216
-    D217
-    D218
-    D219
-    D220
-    D221
-    D222
-    D223
-    D224
-    D225
-    D226
-    D227
-    D228
-    D229
-    D230
-    D231
-    D232
-    D233
-    D234
-    D235
-    D236
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PCB-Powermodule-v11.0.0.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D30
-    D31
-    D35
-    D37
-    D44
-    D45
-    D46
-    D47
-    D48
-    D50
-    D58
-    D59
-    D66
-    D184
-    D185
-    D186
-    D187
-    D188
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-    D205
-    D206
-    D207
-    D208
-    D209
-    D210
-    D211
-    D212
-    D213
-    D214
-    D215
-    D216
-    D217
-    D218
-    D219
-    D220
-    D221
-*************************************************************
-
-*************************************************************
-Generating : Power
-      File : PCB-Powermodule-v11.0.0.G2
-
-    Adding Layer      : Power
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D123
-    D132
-    D133
-    D186
-    D189
     D192
     D193
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB-Powermodule-v11.0.0.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB-Powermodule-v11.0.0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D14
-    D16
-    D17
-    D19
-    D23
-    D24
-    D264
-    D265
-    D266
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB-Powermodule-v11.0.0.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
 *************************************************************
 
 *************************************************************
@@ -334,9 +47,6 @@ Used DCodes :
     D58
     D59
     D66
-    D196
-    D197
-    D198
     D199
     D200
     D201
@@ -355,102 +65,11 @@ Used DCodes :
     D214
     D215
     D216
-    D220
-    D221
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : PCB-Powermodule-v11.0.0.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D184
-    D185
-    D186
-    D187
-    D188
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB-Powermodule-v11.0.0.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Ground
-      File : PCB-Powermodule-v11.0.0.G1
-
-    Adding Layer      : Ground
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D185
-    D186
-    D188
-    D189
-    D190
-    D191
+    D217
+    D218
+    D219
+    D223
+    D224
 *************************************************************
 
 *************************************************************
@@ -573,6 +192,21 @@ Used DCodes :
     D187
     D188
     D189
+    D190
+    D191
+*************************************************************
+
+*************************************************************
+Generating : Fabrication
+      File : PCB-Powermodule-v11.0.0.GM3
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
+    D10
+    D196
+    D270
 *************************************************************
 
 *************************************************************
@@ -646,6 +280,376 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Board_outline
+      File : PCB-Powermodule-v11.0.0.GM2
+
+    Adding Layer      : Board_outline
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB-Powermodule-v11.0.0.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB-Powermodule-v11.0.0.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D186
+    D187
+    D188
+    D189
+    D190
+*************************************************************
+
+*************************************************************
+Generating : Bottom Glue Points
+      File : PCB-Powermodule-v11.0.0.GM12
+
+    Adding Layer      : Bottom Glue Points
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB-Powermodule-v11.0.0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D18
+    D30
+    D31
+    D35
+    D37
+    D44
+    D45
+    D46
+    D47
+    D48
+    D50
+    D58
+    D59
+    D66
+    D123
+    D124
+    D133
+    D134
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D193
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+*************************************************************
+
+*************************************************************
+Generating : Top Glue Points
+      File : PCB-Powermodule-v11.0.0.GM11
+
+    Adding Layer      : Top Glue Points
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB-Powermodule-v11.0.0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB-Powermodule-v11.0.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D18
+    D19
+    D23
+    D24
+    D267
+    D268
+    D269
+*************************************************************
+
+*************************************************************
+Generating : Power
+      File : PCB-Powermodule-v11.0.0.G2
+
+    Adding Layer      : Power
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D123
+    D124
+    D133
+    D188
+    D191
+    D194
+    D195
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB-Powermodule-v11.0.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB-Powermodule-v11.0.0.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D35
+    D37
+    D44
+    D45
+    D46
+    D47
+    D48
+    D50
+    D58
+    D59
+    D66
+    D186
+    D187
+    D188
+    D189
+    D190
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : PCB-Powermodule-v11.0.0.GBS
 
@@ -679,9 +683,6 @@ Used DCodes :
     D120
     D121
     D122
-    D237
-    D238
-    D239
     D240
     D241
     D242
@@ -706,6 +707,9 @@ Used DCodes :
     D261
     D262
     D263
+    D264
+    D265
+    D266
 *************************************************************
 
 *************************************************************
@@ -720,9 +724,9 @@ Generating : Drill Drawing
 Used DCodes :
     D10
     D135
-    D267
-    D269
-    D270
+    D196
+    D271
+    D272
 *************************************************************
 
 *************************************************************
@@ -735,7 +739,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D269
+    D271
 *************************************************************
 
 *************************************************************
@@ -744,6 +748,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D271
+    D273
 *************************************************************
 

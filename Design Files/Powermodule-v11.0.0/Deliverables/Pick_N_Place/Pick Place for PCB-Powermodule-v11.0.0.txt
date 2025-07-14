@@ -5,8 +5,8 @@ D:\eSpark-Consultants\GitHub\gerholdvoorde-dronebms\Design Files\Powermodule-v11
 File Design Information:
 
 Date:       14/07/25
-Time:       18:11
-Revision:   f783ad9b85db3030ec12f898867222fd88714c6f
+Time:       21:42
+Revision:   be6d9f8227bd4de324b50f78054d72f44d6804b5
 Variant:    No variations
 Units used: mm
 
@@ -98,7 +98,7 @@ J5         0.0000mm     0.0000mm     TopLayer    180      0.0000mm  0.0000mm  0.
 J6         30.9834mm    0.0606mm     TopLayer    180      0.0606mm  30.9834mm 0.0606mm  30.9834mm 
 J7         30.9834mm    62.5606mm    TopLayer    180      62.5606mm 30.9834mm 62.5606mm 30.9834mm 
 J8         20.5614mm    -5.0730mm    BottomLayer 90       -5.0730mm 20.5614mm -1.1430mm 17.8114mm 
-J9         14.7066mm    61.2648mm    BottomLayer 270      61.2648mm 14.7066mm 61.2648mm 21.1566mm 
+J9         14.7066mm    61.2648mm    BottomLayer 270      61.2648mm 14.7066mm 61.2648mm 8.2566mm  
 J10        20.4102mm    -7.6842mm    TopLayer    270      -7.6842mm 20.4102mm -7.6842mm 11.5202mm 
 J11        31.2088mm    44.1635mm    BottomLayer 0        44.1635mm 31.2088mm 41.0380mm 29.4594mm 
 J12        -0.2524mm    49.8140mm    TopLayer    0        49.8140mm -0.2524mm 46.6885mm 1.4970mm  
@@ -160,7 +160,7 @@ R6         9.3238mm     3.2682mm     TopLayer    90       3.2682mm  9.3238mm  3.
 R7         9.8324mm     -2.3939mm    BottomLayer 180      -2.3939mm 9.8324mm  -1.9240mm 9.8324mm  
 R8         7.9395mm     5.3867mm     TopLayer    90       5.3867mm  7.9395mm  5.3867mm  7.4696mm  
 R9         4.2890mm     13.8623mm    BottomLayer 270      13.8623mm 4.2890mm  13.8623mm 4.7589mm  
-R10        28.7834mm    28.6207mm    TopLayer    180      28.6207mm 28.7834mm 29.0906mm 28.7834mm 
+R10        29.9815mm    31.1311mm    TopLayer    180      31.1311mm 29.9815mm 31.6010mm 29.9815mm 
 R11        6.8801mm     11.8221mm    TopLayer    270      11.8221mm 6.8801mm  11.8221mm 7.3500mm  
 R12        8.1813mm     -0.7678mm    BottomLayer 90       -0.7678mm 8.1813mm  -0.7678mm 7.7114mm  
 R13        11.2381mm    14.8507mm    TopLayer    180      14.8507mm 11.2381mm 15.3206mm 11.2381mm 
@@ -188,8 +188,7 @@ R34        31.9909mm    53.0880mm    BottomLayer 270      53.0880mm 31.9909mm 53
 R35        20.3322mm    31.0589mm    TopLayer    90       31.0589mm 20.3322mm 31.0589mm 19.8623mm 
 R36        27.2212mm    40.8853mm    BottomLayer 90       40.8853mm 27.2212mm 40.8853mm 26.4592mm 
 R37        26.9291mm    42.0015mm    BottomLayer 270      42.0015mm 26.9291mm 42.0015mm 27.3990mm 
-R43        25.6339mm    31.7066mm    TopLayer    0        31.7066mm 25.6339mm 31.2367mm 25.6339mm 
-R44        24.6334mm    31.7066mm    TopLayer    180      31.7066mm 24.6334mm 32.1765mm 24.6334mm 
+R43        29.9815mm    32.9578mm    TopLayer    0        32.9578mm 29.9815mm 32.4879mm 29.9815mm 
 R45        17.9981mm    20.5560mm    TopLayer    0        20.5560mm 17.9981mm 20.0861mm 17.9981mm 
 R46        17.5136mm    9.6248mm     TopLayer    270      9.6248mm  17.5136mm 9.6248mm  17.9835mm 
 R49        23.6149mm    8.6590mm     BottomLayer 270      8.6590mm  23.6149mm 8.6590mm  24.0848mm 

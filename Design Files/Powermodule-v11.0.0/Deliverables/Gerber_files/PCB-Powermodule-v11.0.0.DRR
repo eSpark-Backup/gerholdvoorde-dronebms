@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB-Powermodule-v11.0.0.PcbDoc   7/14/2025  6:14:06 PM
+NCDrill File Report For: PCB-Powermodule-v11.0.0.PcbDoc   7/14/2025  9:49:42 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : PCB-Powermodule-v11.0.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             325       PTH        755.57mm (29.75inch)
+T1      0.3mm (12mil)                                             Round             326       PTH        790.98mm (31.14inch)
 T2      0.5mm (20mil)                                             Slot              4         PTH        42.79mm (1.68inch)
 T3      1.016mm (40mil)                                           Round             4         PTH        85.62mm (3.37inch)
 T4      3.7mm (146mil)                                            Round             4         PTH        124.50mm (4.90inch)
@@ -19,6 +19,6 @@ T8      0.95mm (37mil)                                            Round         
 T9      1.02mm (40mil)                                            Round             2         NPTH       18.48mm (0.73inch)
 T10     1.8mm (71mil)                                             Round             2         NPTH       17.78mm (0.70inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              349
+Totals                                                                              350
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
