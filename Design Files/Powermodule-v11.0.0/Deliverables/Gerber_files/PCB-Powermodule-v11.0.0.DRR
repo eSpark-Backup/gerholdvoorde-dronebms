@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB-Powermodule-v11.0.0.PcbDoc   7/9/2025  1:52:33 PM
+NCDrill File Report For: PCB-Powermodule-v11.0.0.PcbDoc   7/14/2025  6:14:06 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,17 +8,17 @@ ASCII SlotHoles File : PCB-Powermodule-v11.0.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             333       PTH        794.98mm (31.30inch)
+T1      0.3mm (12mil)                                             Round             325       PTH        755.57mm (29.75inch)
 T2      0.5mm (20mil)                                             Slot              4         PTH        42.79mm (1.68inch)
-T3      1.016mm (40mil)                                           Round             4         PTH        85.79mm (3.38inch)
+T3      1.016mm (40mil)                                           Round             4         PTH        85.62mm (3.37inch)
 T4      3.7mm (146mil)                                            Round             4         PTH        124.50mm (4.90inch)
 T5      0.65mm (26mil)                                            Slot              1         NPTH       0.30mm (0.01inch)
 T6      0.675mm (27mil)                                           Round             1         NPTH       0.00mm (0.00inch)
-T7      0.9mm (35mil)                                             Round             4         NPTH       83.98mm (3.31inch)
+T7      0.9mm (35mil)                                             Round             4         NPTH       80.83mm (3.18inch)
 T8      0.95mm (37mil)                                            Round             2         NPTH       21.26mm (0.84inch)
 T9      1.02mm (40mil)                                            Round             2         NPTH       18.48mm (0.73inch)
 T10     1.8mm (71mil)                                             Round             2         NPTH       17.78mm (0.70inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              357
+Totals                                                                              349
 
-Total Processing Time (hh:mm:ss) : 00:00:05
+Total Processing Time (hh:mm:ss) : 00:00:01
